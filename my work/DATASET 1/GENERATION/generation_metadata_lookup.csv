@@ -1,0 +1,2024 @@
+pccc_index,generator_id,class_label,mapcode,productiontype
+0,11W0-0000-0004-B,3,DE,Fossil Hard coal
+1,11W0-0000-0005-8,3,DE,Fossil Hard coal
+2,11W0-0000-0006-5,3,DE,Fossil Hard coal
+3,11W0-0000-0044-W,3,DE,Fossil Hard coal
+4,11W0-0000-0103-9,3,DE,Fossil Gas
+5,11W0-0000-0104-6,1,DE,Fossil Gas
+6,11W0-0000-0109-S,0,DE,Hydro Pumped Storage
+7,11W0-0000-0110-E,0,DE,Hydro Pumped Storage
+8,11W0-0000-0163-M,1,DE,Fossil Gas
+9,11W0-0000-0196-1,0,DE,Fossil Gas
+10,11W0-0000-0197-Z,3,DE,Fossil Gas
+11,11W0-0000-0200-D,0,DE,Fossil Gas
+12,11W0-0000-0245-J,1,DE,Fossil Gas
+13,11W0-0000-0494-T,0,DE,Fossil Hard coal
+14,11WD2BR15000116G,0,DE,Fossil Hard coal
+15,11WD2BRE4000115K,1,DE,Fossil Gas
+16,11WD2BRE6000118Z,3,DE,Fossil Hard coal
+17,11WD2BROK000123P,3,DE,Nuclear
+18,11WD2BURG000145R,0,DE,Fossil Gas
+19,11WD2BUSD0000386,3,DE,Fossil Brown coal/Lignite
+20,11WD2FARG0001262,3,DE,Fossil Hard coal
+21,11WD2FFW4000020J,0,DE,Fossil Gas
+22,11WD2GE2D000056A,3,DE,Fossil Gas
+23,11WD2GEB1000055R,3,DE,Fossil Gas
+24,11WD2GKBK000335V,3,DE,Fossil Gas
+25,11WD2GRAF000047F,1,DE,Nuclear
+26,11WD2GROH000049H,3,DE,Nuclear
+27,11WD2HANN5C---1X,0,DE,Fossil Hard coal
+28,11WD2HANN5C---2V,0,DE,Fossil Hard coal
+29,11WD2HERR5G----G,2,DE,Fossil Gas
+30,11WD2HEY40000638,3,DE,Fossil Hard coal
+31,11WD2HUNT0000644,2,DE,Fossil Gas
+32,11WD2ING3000058X,3,DE,Fossil Oil
+33,11WD2ING4000059N,0,DE,Fossil Oil
+34,11WD2IRG30000606,0,DE,Fossil Gas
+35,11WD2IRG4000061X,3,DE,Fossil Gas
+36,11WD2IRG5000062N,3,DE,Fossil Gas
+37,11WD2ISAR000122A,1,DE,Nuclear
+38,11WD2KIEL000050P,3,DE,Fossil Hard coal
+39,11WD2KUM1000161L,2,DE,Hydro Pumped Storage
+40,11WD2KUM2000162B,0,DE,Hydro Pumped Storage
+41,11WD2MEHR2CSWHCZ,3,DE,Fossil Hard coal
+42,11WD2NOR20001055,3,DE,Fossil Hard coal
+43,11WD2S1G2000097U,2,DE,Fossil Gas
+44,11WD2S1G3000098K,0,DE,Fossil Gas
+45,11WD2S260000100F,0,DE,Fossil Gas
+46,11WD2S2610001015,2,DE,Fossil Gas
+47,11WD2S262000102W,2,DE,Fossil Gas
+48,11WD2SIM10001585,0,DE,Hydro Water Reservoir
+49,11WD2SIM2000159W,0,DE,Hydro Water Reservoir
+50,11WD2STA4000065N,3,DE,Fossil Gas
+51,11WD2STA5000066D,3,DE,Fossil Hard coal
+52,11WD2VEL3000053J,3,DE,Fossil Hard coal
+53,11WD2W2M1000073I,2,DE,Hydro Pumped Storage
+54,11WD2W2M20000748,2,DE,Hydro Pumped Storage
+55,11WD2WBW1000039N,0,DE,Fossil Hard coal
+56,11WD2WBW2000040U,0,DE,Fossil Hard coal
+57,11WD2WIL10000688,3,DE,Fossil Hard coal
+58,11WD2WILH0001255,3,DE,Fossil Hard coal
+59,11WD2ZOL50001274,3,DE,Fossil Hard coal
+60,11WD43KOP2HM1--L,0,DE,Hydro Pumped Storage
+61,11WD43KOP2HM2--H,0,DE,Hydro Pumped Storage
+62,11WD43KOP2HM3--D,0,DE,Hydro Pumped Storage
+63,11WD43ROW2H----I,0,DE,Hydro Pumped Storage
+64,11WD4AL1U1C1---T,3,DE,Fossil Hard coal
+65,11WD4AL1U1C2---O,3,DE,Fossil Hard coal
+66,11WD4GKNK1N-GESZ,1,DE,Nuclear
+67,11WD4HLBR1C7---4,3,DE,Fossil Hard coal
+68,11WD4HLBR2C5---7,2,DE,Fossil Hard coal
+69,11WD4HLBR5C6---I,0,DE,Fossil Hard coal
+70,11WD4IFFE5H----T,0,DE,Hydro Run-of-river and poundage
+71,11WD4KKP21N2---E,3,DE,Nuclear
+72,11WD4KWRHF5M1-4I,0,DE,Hydro Run-of-river and poundage
+73,11WD4RDK42G4---O,2,DE,Fossil Gas
+74,11WD4RDK71C7---G,3,DE,Fossil Hard coal
+75,11WD4RDK81C8---3,3,DE,Fossil Hard coal
+76,11WD4SAEK2HD4--9,0,DE,Hydro Pumped Storage
+77,11WD4SAEK2HD7--Y,0,DE,Hydro Pumped Storage
+78,11WD4WALK5OGTD-F,0,DE,Fossil Oil
+79,11WD4WEHR1HD4--Y,3,DE,Hydro Pumped Storage
+80,11WD4WEHR1HD7--M,3,DE,Hydro Pumped Storage
+81,11WD4WITZ5H-SD4C,0,DE,Hydro Pumped Storage
+82,11WD4WITZ5H-SD76,0,DE,Hydro Pumped Storage
+83,11WD72VIA2H--10R,2,DE,Hydro Pumped Storage
+84,11WD72VIA2H--11P,2,DE,Hydro Pumped Storage
+85,11WD7BEEC5XHAM4I,1,DE,Fossil Coal-derived gas
+86,11WD7BEEC5XHAM5G,1,DE,Fossil Coal-derived gas
+87,11WD7BEEC5XRUH2I,1,DE,Fossil Coal-derived gas
+88,11WD7BEEC5XRUH3G,0,DE,Fossil Coal-derived gas
+89,11WD7BEEC5XRUH4E,1,DE,Fossil Coal-derived gas
+90,11WD7BERG1S--A-X,3,DE,Fossil Hard coal
+91,11WD7BISC5GKW2-W,1,DE,Fossil Gas
+92,11WD7BISC5GKW3-T,1,DE,Fossil Gas
+93,11WD7BOLA5GDTN2T,2,DE,Fossil Gas
+94,11WD7BOLA5GGTN2E,3,DE,Fossil Gas
+95,11WD7BOLL5BFRFBC,1,DE,Fossil Brown coal/Lignite
+96,11WD7BRAU5G-GUDH,1,DE,Fossil Gas
+97,11WD7EMSL-G-BLB0,3,DE,Fossil Gas
+98,11WD7EMSL-G-BLCZ,3,DE,Fossil Gas
+99,11WD7EMSL1G-GUD9,3,DE,Fossil Gas
+100,11WD7ENSD2S--1-J,2,DE,Fossil Hard coal
+101,11WD7ENSD5S--3-T,3,DE,Fossil Hard coal
+102,11WD7FRIM2B--P-G,3,DE,Fossil Brown coal/Lignite
+103,11WD7FRIM2B--Q-D,3,DE,Fossil Brown coal/Lignite
+104,11WD7FUEH5GMERKA,0,DE,Fossil Gas
+105,11WD7GARE5XPSW1U,2,DE,Hydro Pumped Storage
+106,11WD7GARE5XPSW2S,0,DE,Hydro Pumped Storage
+107,11WD7GERS-G-BLF3,3,DE,Fossil Gas
+108,11WD7GERS-G-BLG1,3,DE,Fossil Gas
+109,11WD7GERS1S-K2-7,3,DE,Fossil Hard coal
+110,11WD7GERS5S-K1-J,0,DE,Fossil Gas
+111,11WD7HERD2G-H6-X,2,DE,Fossil Gas
+112,11WD7HERN2S--4-X,3,DE,Fossil Hard coal
+113,11WD7HERN2S-3--W,3,DE,Fossil Hard coal
+114,11WD7HUCK2G--A-C,3,DE,Fossil Coal-derived gas
+115,11WD7HUCK2G--B-9,3,DE,Fossil Coal-derived gas
+116,11WD7IBBE2S--B-P,3,DE,Fossil Hard coal
+117,11WD7KKE-1K-BLAZ,1,DE,Nuclear
+118,11WD7KOEP2P--5-G,0,DE,Hydro Pumped Storage
+119,11WD7KRBG1KD7-BE,1,DE,Nuclear
+120,11WD7KRBG1KD7-CC,1,DE,Nuclear
+121,11WD7KWHU1GBL10E,0,DE,Fossil Gas
+122,11WD7KWHU1GBL20B,0,DE,Fossil Gas
+123,11WD7KWKN-20-EEW,0,DE,Fossil Gas
+124,11WD7KWKN-KW-EEN,3,DE,Fossil Gas
+125,11WD7LUDW2GGT11E,0,DE,Fossil Gas
+126,11WD7LUDW2GGT12C,0,DE,Fossil Gas
+127,11WD7LUDW5GSDG1Q,0,DE,Fossil Gas
+128,11WD7LUDW5GSDG2O,0,DE,Fossil Gas
+129,11WD7MITB1C---A1,3,DE,Fossil Hard coal
+130,11WD7NEUR1B--B-X,1,DE,Fossil Brown coal/Lignite
+131,11WD7NEUR1B--C-U,0,DE,Fossil Brown coal/Lignite
+132,11WD7NEUR1B--D-R,3,DE,Fossil Brown coal/Lignite
+133,11WD7NEUR1B--E-O,3,DE,Fossil Brown coal/Lignite
+134,11WD7NEUR1B--F-L,3,DE,Fossil Brown coal/Lignite
+135,11WD7NEUR1B--G-I,3,DE,Fossil Brown coal/Lignite
+136,11WD7NEUR2B--A-T,1,DE,Fossil Brown coal/Lignite
+137,11WD7NIED1B--G-C,3,DE,Fossil Brown coal/Lignite
+138,11WD7NIED1B--H-9,3,DE,Fossil Brown coal/Lignite
+139,11WD7NIED1B--K-0,3,DE,Fossil Brown coal/Lignite
+140,11WD7NIED2B--C-H,3,DE,Fossil Brown coal/Lignite
+141,11WD7NIED2B--D-E,3,DE,Fossil Brown coal/Lignite
+142,11WD7NIED2B--E-B,0,DE,Fossil Brown coal/Lignite
+143,11WD7NIED2B--F-8,2,DE,Fossil Brown coal/Lignite
+144,11WD7NORF5G-HTER,2,DE,Fossil Gas
+145,11WD7NORF5GAGUDC,2,DE,Fossil Gas
+146,11WD7NORF5GGUDFA,2,DE,Fossil Gas
+147,11WD7OPLA1G--318,1,DE,Fossil Gas
+148,11WD7RHAU5GKW3B5,0,DE,Fossil Gas
+149,11WD7SCHO1S--B-0,3,DE,Fossil Hard coal
+150,11WD7SCHO2S--C-R,3,DE,Fossil Hard coal
+151,11WD7STUM1SBL10G,3,DE,Fossil Hard coal
+152,11WD7VIAN2H-1-1O,2,DE,Hydro Pumped Storage
+153,11WD7VIAN2H-1-2M,2,DE,Hydro Pumped Storage
+154,11WD7VIAN2H-1-3K,0,DE,Hydro Pumped Storage
+155,11WD7VIAN2H-1-4I,0,DE,Hydro Pumped Storage
+156,11WD7VIAN2H-2-5C,0,DE,Hydro Pumped Storage
+157,11WD7VIAN2H-2-6A,0,DE,Hydro Pumped Storage
+158,11WD7VIAN2H-2-78,0,DE,Hydro Pumped Storage
+159,11WD7VIAN2H-2-86,0,DE,Hydro Pumped Storage
+160,11WD7VIAN2H-2-94,0,DE,Hydro Pumped Storage
+161,11WD7VOER1S--A-1,3,DE,Fossil Hard coal
+162,11WD7VOER1S--B-Z,3,DE,Fossil Hard coal
+163,11WD7VOLK5S-HKVM,3,DE,Fossil Hard coal
+164,11WD7VOLK5S-MKV2,3,DE,Fossil Hard coal
+165,11WD7WALS1S--10A,3,DE,Fossil Hard coal
+166,11WD7WEIH2S--C-A,3,DE,Fossil Hard coal
+167,11WD7WEIS1B--F-M,3,DE,Fossil Brown coal/Lignite
+168,11WD7WEIS1B--G-J,1,DE,Fossil Brown coal/Lignite
+169,11WD7WEIS1B--H-G,3,DE,Fossil Brown coal/Lignite
+170,11WD7WEIS5B--E-Y,3,DE,Fossil Brown coal/Lignite
+171,11WD7WEIS5GVGTGU,2,DE,Fossil Gas
+172,11WD7WEIS5GVGTHS,2,DE,Fossil Gas
+173,11WD7WEST5S--C-P,3,DE,Fossil Hard coal
+174,11WD7WSFN1S--E-Z,3,DE,Fossil Hard coal
+175,11WD8BOXB1L---N8,1,DE,Fossil Brown coal/Lignite
+176,11WD8BOXB1L---P4,1,DE,Fossil Brown coal/Lignite
+177,11WD8BOXB1L---Q2,1,DE,Fossil Brown coal/Lignite
+178,11WD8BOXB1L---R0,1,DE,Fossil Brown coal/Lignite
+179,11WD8DRES5X----D,1,DE,Fossil Gas
+180,11WD8GOLD1H---AL,0,DE,Hydro Pumped Storage
+181,11WD8GOLD1H---BJ,0,DE,Hydro Pumped Storage
+182,11WD8GOLD1H---CH,0,DE,Hydro Pumped Storage
+183,11WD8GOLD1H---DF,2,DE,Hydro Pumped Storage
+184,11WD8JAEN1L---AD,1,DE,Fossil Brown coal/Lignite
+185,11WD8JAEN1L---BB,1,DE,Fossil Brown coal/Lignite
+186,11WD8JAEN1L---C9,1,DE,Fossil Brown coal/Lignite
+187,11WD8JAEN1L---D7,1,DE,Fossil Brown coal/Lignite
+188,11WD8JAEN1L---E5,1,DE,Fossil Brown coal/Lignite
+189,11WD8JAEN1L---F3,1,DE,Fossil Brown coal/Lignite
+190,11WD8KLIN5G--13E,3,DE,Fossil Gas
+191,11WD8LEIP5X----6,3,DE,Fossil Gas
+192,11WD8LICH5G---1Y,3,DE,Fossil Gas
+193,11WD8LICH5G---3U,2,DE,Fossil Gas
+194,11WD8LIPD1L---R6,1,DE,Fossil Brown coal/Lignite
+195,11WD8LIPD1L---S4,1,DE,Fossil Brown coal/Lignite
+196,11WD8MARK1H---AM,0,DE,Hydro Pumped Storage
+197,11WD8MARK1H---BK,1,DE,Hydro Pumped Storage
+198,11WD8MARK1H---CI,0,DE,Hydro Pumped Storage
+199,11WD8MARK1H---DG,2,DE,Hydro Pumped Storage
+200,11WD8MARK1H---EE,2,DE,Hydro Pumped Storage
+201,11WD8MARK1H---FC,0,DE,Hydro Pumped Storage
+202,11WD8MITT5GGUD-8,3,DE,Fossil Gas
+203,11WD8MOOR1C---AV,3,DE,Fossil Hard coal
+204,11WD8MOOR1C---BT,3,DE,Fossil Hard coal
+205,11WD8REUT5X---CX,3,DE,Fossil Hard coal
+206,11WD8REUW1C---DD,3,DE,Fossil Hard coal
+207,11WD8REUW1C---EB,3,DE,Fossil Hard coal
+208,11WD8ROST1C----K,3,DE,Fossil Hard coal
+209,11WD8SCHK1L---A2,3,DE,Fossil Brown coal/Lignite
+210,11WD8SCHK1L---B0,3,DE,Fossil Brown coal/Lignite
+211,11WD8SCHW5X---19,0,DE,Fossil Oil
+212,11WD8SCHW5X---27,0,DE,Fossil Oil
+213,11WD8SWPU1L---AK,1,DE,Fossil Brown coal/Lignite
+214,11WD8SWPU1L---BI,1,DE,Fossil Brown coal/Lignite
+215,11WD8TIEF5C----9,1,DE,Fossil Hard coal
+216,11WD8TIEF5G-GUDI,1,DE,Fossil Gas
+217,11WD8WED15C---1M,1,DE,Fossil Hard coal
+218,11WD8WED15C---2K,0,DE,Fossil Hard coal
+219,12W-0000000007-I,1,CH,Hydro Water Reservoir
+220,12W-0000000164-Z,0,CH,Hydro Run-of-river and poundage
+221,12W-0000000207-8,0,CH,Hydro Water Reservoir
+222,12W-0000000210-P,0,CH,Hydro Pumped Storage
+223,12W-0000000431-4,1,CH,Nuclear
+224,12W-0000000433-Z,0,CH,Nuclear
+225,12W-0000000438-K,1,CH,Nuclear
+226,12W-0000000441-0,0,CH,Hydro Pumped Storage
+227,12W-0000000442-Y,0,CH,Hydro Pumped Storage
+228,12W-0000000443-V,0,CH,Hydro Pumped Storage
+229,12W-0000000444-S,0,CH,Hydro Pumped Storage
+230,12W-0000000456-I,0,CH,Hydro Pumped Storage
+231,12W-0000000457-F,0,CH,Hydro Pumped Storage
+232,12W-0000000458-C,0,CH,Hydro Pumped Storage
+233,12W-0000000687-U,2,CH,Hydro Pumped Storage
+234,12W-0000000688-R,2,CH,Hydro Pumped Storage
+235,12W-0000000689-O,0,CH,Hydro Pumped Storage
+236,12W-0000000690-A,2,CH,Hydro Pumped Storage
+237,12W-0000000716-J,0,CH,Hydro Water Reservoir
+238,12W-0000000719-A,1,CH,Hydro Water Reservoir
+239,12W-0000000720-X,1,CH,Hydro Water Reservoir
+240,12W-0000000722-R,3,CH,Hydro Pumped Storage
+241,12W-0000000723-O,1,CH,Hydro Water Reservoir
+242,12W-0000000724-L,3,CH,Hydro Water Reservoir
+243,12W-0000000725-I,1,CH,Hydro Water Reservoir
+244,12W-0000000730-T,1,CH,Hydro Water Reservoir
+245,12W-0000000731-Q,0,CH,Hydro Water Reservoir
+246,12W-0000000733-K,1,CH,Hydro Water Reservoir
+247,12W-0000000734-H,1,CH,Hydro Water Reservoir
+248,12W-0000000839-Y,3,CH,Hydro Pumped Storage
+249,12W-0000000922-H,3,CH,Hydro Water Reservoir
+250,12W-0000000926-5,1,CH,Hydro Pumped Storage
+251,12W-0000000929-X,1,CH,Hydro Water Reservoir
+252,12W-0000000945-0,0,CH,Nuclear
+253,12W-0000000946-Y,1,CH,Nuclear
+254,12W-0000000950-B,3,CH,Hydro Water Reservoir
+255,12W-0000000951-8,2,CH,Hydro Water Reservoir
+256,12W-0000001570-H,1,CH,Hydro Pumped Storage
+257,12W-0000001572-B,0,CH,Hydro Water Reservoir
+258,12W-0000001616-I,0,CH,Hydro Pumped Storage
+259,12W-0000001719-4,0,CH,Hydro Run-of-river and poundage
+260,14W-BAS-TU-----Y,0,AT,Hydro Run-of-river and poundage
+261,14W-BAW-TU-----V,1,AT,Hydro Run-of-river and poundage
+262,14W-BFR-TU-----Q,0,AT,Hydro Run-of-river and poundage
+263,14W-BGS-TU-----5,0,AT,Hydro Run-of-river and poundage
+264,14W-BME-TU-----5,0,AT,Hydro Run-of-river and poundage
+265,14W-BOW-TU-----P,0,AT,Hydro Run-of-river and poundage
+266,14W-BWM-TU-----0,0,AT,Hydro Run-of-river and poundage
+267,14W-BYP-TU-----M,3,AT,Hydro Run-of-river and poundage
+268,14W-DMH-TU-----P,3,AT,Hydro Pumped Storage
+269,14W-DMO-TU-----T,2,AT,Hydro Pumped Storage
+270,14W-DRP-TU-----1,1,AT,Hydro Pumped Storage
+271,14W-GEN-DO3----F,0,AT,Fossil Gas
+272,14W-GEN-SIM1---Z,3,AT,Fossil Gas
+273,14W-GEN-SIM3---P,3,AT,Fossil Gas
+274,14W-KW-DUE-EVN-A,1,AT,Fossil Hard coal
+275,14W-KW-KOR--M2-4,0,AT,Fossil Gas
+276,14W-KW-KOR-EVN-F,1,AT,Fossil Gas
+277,14W-KW-THE--M3-U,0,AT,Fossil Gas
+278,14W-KW-THE--M5-O,0,AT,Fossil Gas
+279,14W-KW-THE-KO--3,3,AT,Fossil Gas
+280,14W-KW-THE-M2--7,0,AT,Fossil Gas
+281,14W-TKH-TU-----3,3,AT,Hydro Water Reservoir
+282,14W-TKO-TU-----7,2,AT,Hydro Pumped Storage
+283,14W-TKP-TU-----Y,3,AT,Hydro Pumped Storage
+284,14W-TKS-TU-----4,0,AT,Hydro Water Reservoir
+285,14W-TZG-TU-----X,0,AT,Hydro Water Reservoir
+286,14W-TZH-TU-----N,3,AT,Hydro Pumped Storage
+287,14W-TZM-TU-----A,0,AT,Hydro Water Reservoir
+288,14W-TZR-TU-----Y,3,AT,Hydro Pumped Storage
+289,14W-WGM1-M1----5,1,AT,Fossil Gas
+290,14W-WGM2-M1----X,0,AT,Fossil Gas
+291,14W-WML-M1-----G,2,AT,Fossil Gas
+292,14W-WNW-M1-----6,2,AT,Fossil Oil
+293,14WENERGIEAGWR21,0,AT,Fossil Hard coal
+294,14WENERGIEAGWT4S,0,AT,Fossil Gas
+295,14WGEN-SIM1DT--C,3,AT,Fossil Gas
+296,14WGEN-SIM1GT41F,0,AT,Fossil Gas
+297,14WGEN-SIM1GT42D,0,AT,Fossil Gas
+298,14WGEN-SIM3DT--0,0,AT,Fossil Gas
+299,15WAJKA2345--STU,3,HU,Biomass
+300,15WAJKA67----STX,3,HU,Biomass
+301,15WALPIQG1---GE7,0,HU,Fossil Gas
+302,15WAUDIPVG1--PV1,0,HU,Solar
+303,15WBABRPVG1--PVC,0,HU,Solar
+304,15WBAKONYGT1-GTC,0,HU,Fossil Gas
+305,15WBAKONYGT2-GT7,0,HU,Fossil Gas
+306,15WBUZSPVAE--PVH,1,HU,Solar
+307,15WCSEPELG1--GTH,0,HU,Fossil Gas
+308,15WCSEPELG2--GTB,0,HU,Fossil Gas
+309,15WCSEPELG3--ST6,0,HU,Fossil Gas
+310,15WDALKSZEK-VPP4,0,HU,Fossil Gas
+311,15WDKCEGT--CCGTG,1,HU,Fossil Gas
+312,15WDUHAMB----PPW,2,HU,Fossil Hard coal
+313,15WDUHAMB1---PPI,2,HU,Fossil Hard coal
+314,15WDUMEG14---GTI,2,HU,Fossil Gas
+315,15WDUMEG15---GTB,0,HU,Fossil Gas
+316,15WDUMEG16---ST5,0,HU,Fossil Gas
+317,15WDUMEG17---STZ,2,HU,Fossil Gas
+318,15WDUMEG7----GT5,2,HU,Fossil Gas
+319,15WDUMEG8----GTY,2,HU,Fossil Gas
+320,15WEBUDA123-MVM2,3,HU,Fossil Gas
+321,15WFZSOPVG1--PVL,0,HU,Solar
+322,15WGGUTPVAE--PVH,0,HU,Solar
+323,15WGONYUDIES-GEI,0,HU,Fossil Oil
+324,15WGONYUG1-CCGTG,0,HU,Fossil Gas
+325,15WHUGRPVAE--PVA,0,HU,Solar
+326,15WKAPKPVG1--PVX,0,HU,Solar
+327,15WKAPNPVG1--PV3,0,HU,Solar
+328,15WKFGT------GT5,0,HU,Fossil Gas
+329,15WKFGT34----GT3,0,HU,Fossil Gas
+330,15WKFST------STM,0,HU,Fossil Gas
+331,15WKISPEST-CCGTY,3,HU,Fossil Gas
+332,15WLITERG----GTJ,0,HU,Fossil Oil
+333,15WLORID-----AEH,0,HU,Fossil Oil
+334,15WLORINCG---GTQ,0,HU,Fossil Oil
+335,15WMATRAG1---ST1,2,HU,Fossil Brown coal/Lignite
+336,15WMATRAG2---STV,0,HU,Fossil Brown coal/Lignite
+337,15WMATRAG3---STO,2,HU,Fossil Brown coal/Lignite
+338,15WMATRAG4---STH,2,HU,Fossil Brown coal/Lignite
+339,15WMATRAG5---STA,2,HU,Fossil Brown coal/Lignite
+340,15WMATRAG6---GT2,0,HU,Fossil Brown coal/Lignite
+341,15WMATRAG7---GTW,0,HU,Fossil Brown coal/Lignite
+342,15WMESZAE---VPPP,0,HU,Fossil Gas
+343,15WMIFU-----MVM6,0,HU,Fossil Gas
+344,15WMKCECCGT-MVMP,0,HU,Fossil Gas
+345,15WMOLFPVG1--PV7,0,HU,Solar
+346,15WMVMSUM---VPP9,0,HU,Fossil Gas
+347,15WNYKCE---CCGTJ,1,HU,Fossil Gas
+348,15WNYPAZPV---AE9,0,HU,Solar
+349,15WORG1------STG,2,HU,Fossil Brown coal/Lignite
+350,15WORG2------ST6,0,HU,Fossil Brown coal/Lignite
+351,15WORG3------STX,0,HU,Fossil Brown coal/Lignite
+352,15WORG4------STN,0,HU,Fossil Brown coal/Lignite
+353,15WPAKSG1----STK,0,HU,Nuclear
+354,15WPAKSG2----STC,0,HU,Nuclear
+355,15WPAKSG3----ST4,0,HU,Nuclear
+356,15WPAKSG4----STX,0,HU,Nuclear
+357,15WPAKSG5----STP,0,HU,Nuclear
+358,15WPAKSG6----STH,0,HU,Nuclear
+359,15WPAKSG7----ST9,0,HU,Nuclear
+360,15WPAKSG8----ST1,0,HU,Nuclear
+361,15WPAKSPVG1--PVH,0,HU,Solar
+362,15WPECSG3----ST7,0,HU,Biomass
+363,15WPECSG4---ST-E,2,HU,Biomass
+364,15WPECSG6----STK,2,HU,Biomass
+365,15WSAJOSZG---GTD,0,HU,Fossil Oil
+366,15WSKOVP1----WTR,0,HU,Wind Onshore
+367,15WSZOLPV1---AEB,0,HU,Solar
+368,15WSZOLPV2---AE4,0,HU,Solar
+369,15WTANEPVG1--PVZ,0,HU,Solar
+370,15WTATABG1---GEQ,0,HU,Fossil Gas
+371,15WTATABG2---STR,0,HU,Fossil Gas
+372,15WTISZAG1---ST4,0,HU,Fossil Gas
+373,15WTISZAG2---STY,0,HU,Fossil Gas
+374,15WTISZAG3---STR,0,HU,Fossil Gas
+375,15WTISZAG4---STK,0,HU,Fossil Gas
+376,15WTMPKPVG1--PVV,0,HU,Solar
+377,15WUJPESTG1--GTN,0,HU,Fossil Gas
+378,15WUJPESTG2--STI,0,HU,Fossil Gas
+379,15WVEOS1----VPP1,0,HU,Fossil Gas
+380,15WVEOT1----VPPS,0,HU,Fossil Gas
+381,16W-ALQUE1-----X,0,PT,Hydro Pumped Storage
+382,16W-ALQUE2-----Q,0,PT,Hydro Pumped Storage
+383,16W-ALQUE3-----J,0,PT,Hydro Pumped Storage
+384,16W-ALQUE4-----C,0,PT,Hydro Pumped Storage
+385,16WAGUIE1------O,0,PT,Hydro Pumped Storage
+386,16WAGUIE2------G,0,PT,Hydro Pumped Storage
+387,16WAGUIE3------8,0,PT,Hydro Pumped Storage
+388,16WALINDO1-----5,0,PT,Hydro Water Reservoir
+389,16WALINDO2-----Z,0,PT,Hydro Water Reservoir
+390,16WBASBM1------T,0,PT,Hydro Pumped Storage
+391,16WBASBM2------L,0,PT,Hydro Pumped Storage
+392,16WBEMPOS1-----T,0,PT,Hydro Run-of-river and poundage
+393,16WBEMPOS2-----M,0,PT,Hydro Run-of-river and poundage
+394,16WBEMPOS3-----F,0,PT,Hydro Run-of-river and poundage
+395,16WBEMPOS4-----8,2,PT,Hydro Run-of-river and poundage
+396,16WCABRIL1-----G,0,PT,Hydro Water Reservoir
+397,16WCABRIL2-----9,0,PT,Hydro Water Reservoir
+398,16WCARRA1------C,0,PT,Hydro Run-of-river and poundage
+399,16WCARRA2------4,0,PT,Hydro Run-of-river and poundage
+400,16WCARRA3------X,0,PT,Hydro Run-of-river and poundage
+401,16WCBODE1------Q,0,PT,Hydro Water Reservoir
+402,16WCBODE2------I,0,PT,Hydro Water Reservoir
+403,16WCBODE3------A,0,PT,Hydro Water Reservoir
+404,16WCRESTU1-----5,2,PT,Hydro Run-of-river and poundage
+405,16WCRESTU2-----Z,0,PT,Hydro Run-of-river and poundage
+406,16WCRESTU3-----S,0,PT,Hydro Run-of-river and poundage
+407,16WFOZTG1------D,2,PT,Hydro Pumped Storage
+408,16WFOZTG2------5,2,PT,Hydro Pumped Storage
+409,16WFRADEG3-----N,3,PT,Hydro Pumped Storage
+410,16WFRADEG4-----G,3,PT,Hydro Pumped Storage
+411,16WFRADES1-----F,0,PT,Hydro Pumped Storage
+412,16WFRADES2-----8,0,PT,Hydro Pumped Storage
+413,16WFRATEL1-----M,0,PT,Hydro Run-of-river and poundage
+414,16WFRATEL2-----F,0,PT,Hydro Run-of-river and poundage
+415,16WFRATEL3-----8,0,PT,Hydro Run-of-river and poundage
+416,16WLARES1------B,2,PT,Fossil Gas
+417,16WLARES2------3,0,PT,Fossil Gas
+418,16WMIRAN1------O,0,PT,Hydro Run-of-river and poundage
+419,16WMIRAN2------G,0,PT,Hydro Run-of-river and poundage
+420,16WMIRAN3------8,0,PT,Hydro Run-of-river and poundage
+421,16WMIRAN4------0,2,PT,Hydro Run-of-river and poundage
+422,16WPEGO3-------P,0,PT,Fossil Gas
+423,16WPEGO4-------G,0,PT,Fossil Gas
+424,16WPICOTE1-----N,0,PT,Hydro Run-of-river and poundage
+425,16WPICOTE2-----G,0,PT,Hydro Run-of-river and poundage
+426,16WPICOTE3-----9,0,PT,Hydro Run-of-river and poundage
+427,16WPICOTE4-----3,0,PT,Hydro Run-of-river and poundage
+428,16WPOCIN1------Z,0,PT,Hydro Run-of-river and poundage
+429,16WPOCIN2------R,0,PT,Hydro Run-of-river and poundage
+430,16WPOCIN3------J,0,PT,Hydro Run-of-river and poundage
+431,16WREGUA1------8,0,PT,Hydro Run-of-river and poundage
+432,16WREGUA2------0,2,PT,Hydro Run-of-river and poundage
+433,16WREGUA3------T,0,PT,Hydro Run-of-river and poundage
+434,16WRIBATE1-----0,2,PT,Fossil Gas
+435,16WRIBATE2-----U,0,PT,Fossil Gas
+436,16WRIBATE3-----N,0,PT,Fossil Gas
+437,16WRPG01-------E,0,PT,Fossil Hard coal
+438,16WRPG02-------5,0,PT,Fossil Hard coal
+439,16WRTG01-------3,1,PT,Fossil Gas
+440,16WRTG02-------V,0,PT,Fossil Gas
+441,16WRTG03-------M,1,PT,Fossil Gas
+442,16WSALAMG3-----6,0,PT,Hydro Pumped Storage
+443,16WTORRA1------U,0,PT,Hydro Run-of-river and poundage
+444,16WTORRA2------M,0,PT,Hydro Run-of-river and poundage
+445,16WVALEIR1-----0,0,PT,Hydro Run-of-river and poundage
+446,16WVALEIR3-----N,0,PT,Hydro Run-of-river and poundage
+447,16WVFURNA1-----O,0,PT,Hydro Pumped Storage
+448,16WVFURNA2-----H,0,PT,Hydro Pumped Storage
+449,17W000001353785Z,2,FR,Hydro Run-of-river and poundage
+450,17W000001468590C,2,FR,Fossil Gas
+451,17W100P100P0005Z,3,FR,Fossil Hard coal
+452,17W100P100P0009R,3,FR,Fossil Hard coal
+453,17W100P100P00105,2,FR,Fossil Gas
+454,17W100P100P00113,2,FR,Fossil Gas
+455,17W100P100P00122,2,FR,Fossil Gas
+456,17W100P100P0016U,3,FR,Fossil Hard coal
+457,17W100P100P0017S,3,FR,Fossil Hard coal
+458,17W100P100P0018Q,3,FR,Fossil Hard coal
+459,17W100P100P0023X,3,FR,Fossil Hard coal
+460,17W100P100P0024V,0,FR,Fossil Hard coal
+461,17W100P100P0025T,0,FR,Fossil Hard coal
+462,17W100P100P0026R,2,FR,Fossil Hard coal
+463,17W100P100P0027P,0,FR,Fossil Hard coal
+464,17W100P100P0028N,0,FR,Fossil Oil
+465,17W100P100P0029L,0,FR,Fossil Oil
+466,17W100P100P0031Y,0,FR,Fossil Oil
+467,17W100P100P0032W,0,FR,Fossil Oil
+468,17W100P100P0033U,0,FR,Fossil Oil
+469,17W100P100P0034S,2,FR,Fossil Oil
+470,17W100P100P0035Q,2,FR,Fossil Oil
+471,17W100P100P0037M,2,FR,Fossil Gas
+472,17W100P100P0040X,3,FR,Fossil Oil
+473,17W100P100P0041V,3,FR,Fossil Oil
+474,17W100P100P0042T,0,FR,Fossil Oil
+475,17W100P100P0043R,2,FR,Fossil Oil
+476,17W100P100P0044P,3,FR,Fossil Oil
+477,17W100P100P0045N,3,FR,Fossil Oil
+478,17W100P100P0046L,0,FR,Fossil Oil
+479,17W100P100P0047J,0,FR,Fossil Oil
+480,17W100P100P0048H,0,FR,Fossil Oil
+481,17W100P100P0049F,0,FR,Hydro Run-of-river and poundage
+482,17W100P100P0050U,0,FR,Hydro Run-of-river and poundage
+483,17W100P100P0051S,0,FR,Hydro Water Reservoir
+484,17W100P100P0052Q,0,FR,Hydro Water Reservoir
+485,17W100P100P0054M,0,FR,Hydro Water Reservoir
+486,17W100P100P0055K,0,FR,Hydro Water Reservoir
+487,17W100P100P0056I,2,FR,Hydro Pumped Storage
+488,17W100P100P0057G,2,FR,Hydro Pumped Storage
+489,17W100P100P0058E,0,FR,Hydro Pumped Storage
+490,17W100P100P0059C,0,FR,Hydro Pumped Storage
+491,17W100P100P0060R,0,FR,Hydro Pumped Storage
+492,17W100P100P0061P,0,FR,Hydro Pumped Storage
+493,17W100P100P0062N,2,FR,Hydro Pumped Storage
+494,17W100P100P0063L,2,FR,Hydro Pumped Storage
+495,17W100P100P0064J,2,FR,Hydro Pumped Storage
+496,17W100P100P0065H,0,FR,Hydro Pumped Storage
+497,17W100P100P0066F,0,FR,Hydro Pumped Storage
+498,17W100P100P0067D,0,FR,Hydro Pumped Storage
+499,17W100P100P0068B,0,FR,Hydro Pumped Storage
+500,17W100P100P00699,2,FR,Hydro Pumped Storage
+501,17W100P100P0071M,2,FR,Hydro Pumped Storage
+502,17W100P100P0072K,0,FR,Hydro Pumped Storage
+503,17W100P100P0073I,0,FR,Hydro Pumped Storage
+504,17W100P100P0074G,2,FR,Hydro Pumped Storage
+505,17W100P100P0075E,0,FR,Hydro Water Reservoir
+506,17W100P100P0076C,0,FR,Hydro Pumped Storage
+507,17W100P100P0077A,2,FR,Hydro Pumped Storage
+508,17W100P100P00788,0,FR,Hydro Pumped Storage
+509,17W100P100P00796,0,FR,Hydro Pumped Storage
+510,17W100P100P0080L,0,FR,Hydro Water Reservoir
+511,17W100P100P0081J,0,FR,Hydro Water Reservoir
+512,17W100P100P0082H,2,FR,Hydro Pumped Storage
+513,17W100P100P0083F,0,FR,Hydro Pumped Storage
+514,17W100P100P0084D,2,FR,Hydro Pumped Storage
+515,17W100P100P0085B,2,FR,Hydro Pumped Storage
+516,17W100P100P00869,0,FR,Hydro Pumped Storage
+517,17W100P100P00877,0,FR,Hydro Water Reservoir
+518,17W100P100P00885,0,FR,Hydro Water Reservoir
+519,17W100P100P00893,0,FR,Hydro Water Reservoir
+520,17W100P100P0090I,3,FR,Nuclear
+521,17W100P100P0091G,3,FR,Nuclear
+522,17W100P100P0092E,3,FR,Nuclear
+523,17W100P100P0093C,1,FR,Nuclear
+524,17W100P100P0094A,1,FR,Nuclear
+525,17W100P100P00958,3,FR,Nuclear
+526,17W100P100P00966,3,FR,Nuclear
+527,17W100P100P00974,3,FR,Nuclear
+528,17W100P100P00982,3,FR,Nuclear
+529,17W100P100P01004,3,FR,Nuclear
+530,17W100P100P01012,3,FR,Nuclear
+531,17W100P100P0103Z,1,FR,Nuclear
+532,17W100P100P0104X,3,FR,Nuclear
+533,17W100P100P0105V,3,FR,Nuclear
+534,17W100P100P0106T,3,FR,Nuclear
+535,17W100P100P0107R,3,FR,Nuclear
+536,17W100P100P0108P,1,FR,Nuclear
+537,17W100P100P01101,1,FR,Nuclear
+538,17W100P100P0112Y,3,FR,Nuclear
+539,17W100P100P0113W,3,FR,Nuclear
+540,17W100P100P0114U,3,FR,Nuclear
+541,17W100P100P0115S,1,FR,Nuclear
+542,17W100P100P0116Q,3,FR,Nuclear
+543,17W100P100P0118M,3,FR,Nuclear
+544,17W100P100P0119K,3,FR,Nuclear
+545,17W100P100P0120Z,1,FR,Nuclear
+546,17W100P100P0121X,3,FR,Nuclear
+547,17W100P100P0122V,1,FR,Nuclear
+548,17W100P100P0123T,3,FR,Nuclear
+549,17W100P100P0124R,1,FR,Nuclear
+550,17W100P100P0125P,1,FR,Nuclear
+551,17W100P100P0126N,3,FR,Nuclear
+552,17W100P100P0127L,3,FR,Nuclear
+553,17W100P100P0128J,1,FR,Nuclear
+554,17W100P100P0129H,3,FR,Nuclear
+555,17W100P100P0130W,3,FR,Nuclear
+556,17W100P100P0131U,3,FR,Nuclear
+557,17W100P100P0132S,3,FR,Nuclear
+558,17W100P100P0133Q,3,FR,Nuclear
+559,17W100P100P0135M,3,FR,Nuclear
+560,17W100P100P0136K,3,FR,Nuclear
+561,17W100P100P0137I,1,FR,Nuclear
+562,17W100P100P0138G,3,FR,Nuclear
+563,17W100P100P0139E,3,FR,Nuclear
+564,17W100P100P0140T,3,FR,Nuclear
+565,17W100P100P0141R,3,FR,Nuclear
+566,17W100P100P0142P,3,FR,Nuclear
+567,17W100P100P0143N,1,FR,Nuclear
+568,17W100P100P0144L,1,FR,Nuclear
+569,17W100P100P0145J,3,FR,Nuclear
+570,17W100P100P0146H,3,FR,Nuclear
+571,17W100P100P0147F,3,FR,Nuclear
+572,17W100P100P0148D,3,FR,Nuclear
+573,17W100P100P0149B,1,FR,Nuclear
+574,17W100P100P0150Q,3,FR,Nuclear
+575,17W100P100P0152M,3,FR,Nuclear
+576,17W100P100P0153K,3,FR,Nuclear
+577,17W100P100P01679,3,FR,Fossil Gas
+578,17W100P100P0171I,2,FR,Fossil Gas
+579,17W100P100P0172G,0,FR,Hydro Run-of-river and poundage
+580,17W100P100P0173E,3,FR,Fossil Gas
+581,17W100P100P0174C,3,FR,Fossil Gas
+582,17W100P100P0175A,3,FR,Fossil Gas
+583,17W100P100P01768,3,FR,Fossil Gas
+584,17W100P100P02578,2,FR,Fossil Oil
+585,17W100P100P02594,2,FR,Fossil Oil
+586,17W100P100P0262F,0,FR,Fossil Oil
+587,17W100P100P0264B,0,FR,Fossil Oil
+588,17W100P100P0330O,3,FR,Fossil Gas
+589,17W100P100P0331M,3,FR,Fossil Gas
+590,17W100P100P0332K,3,FR,Fossil Gas
+591,17W100P100P0333I,3,FR,Fossil Gas
+592,17W100P100P0336C,2,FR,Fossil Gas
+593,17W100P100P03388,3,FR,Fossil Gas
+594,17W100P100P03477,0,FR,Fossil Gas
+595,17W100P100P03485,0,FR,Fossil Gas
+596,17W100P100P03566,2,FR,Hydro Water Reservoir
+597,17W100P100P03574,0,FR,Hydro Water Reservoir
+598,17W100P100P03582,0,FR,Hydro Water Reservoir
+599,17W100P100P03590,0,FR,Hydro Water Reservoir
+600,17W100P100P0360F,2,FR,Hydro Water Reservoir
+601,17W100P100P0361D,0,FR,Hydro Water Reservoir
+602,17W100P100P03655,3,FR,Biomass
+603,17W100P100P1204O,0,FR,Hydro Run-of-river and poundage
+604,17W100P100P1206K,0,FR,Hydro Run-of-river and poundage
+605,17W100P100P1209E,0,FR,Hydro Run-of-river and poundage
+606,17W100P100P1210T,2,FR,Hydro Run-of-river and poundage
+607,17W100P100P1211R,2,FR,Hydro Run-of-river and poundage
+608,17W100P100P1212P,0,FR,Hydro Run-of-river and poundage
+609,17W100P100P1230N,0,FR,Hydro Run-of-river and poundage
+610,17W100P100P1231L,0,FR,Hydro Run-of-river and poundage
+611,17W100P100P1268Z,0,FR,Hydro Run-of-river and poundage
+612,17W100P100P1269X,2,FR,Hydro Run-of-river and poundage
+613,17W100P100P1270B,0,FR,Hydro Run-of-river and poundage
+614,17W100P100P12719,0,FR,Hydro Run-of-river and poundage
+615,17W100P100P12727,2,FR,Hydro Run-of-river and poundage
+616,17W100P100P12735,0,FR,Hydro Run-of-river and poundage
+617,17W100P100P1288T,0,FR,Hydro Run-of-river and poundage
+618,17W100P100P1289R,0,FR,Hydro Run-of-river and poundage
+619,17W100P100P13189,0,FR,Hydro Run-of-river and poundage
+620,17W100P100P13197,0,FR,Hydro Run-of-river and poundage
+621,17W100P100P1320M,0,FR,Hydro Run-of-river and poundage
+622,17W100P100P1321K,0,FR,Hydro Run-of-river and poundage
+623,17W100P100P1324E,0,FR,Hydro Run-of-river and poundage
+624,17W100P100P1325C,0,FR,Hydro Run-of-river and poundage
+625,17W100P100P1330J,0,FR,Hydro Run-of-river and poundage
+626,17W100P100P1331H,0,FR,Hydro Run-of-river and poundage
+627,17W100P100P1332F,0,FR,Hydro Run-of-river and poundage
+628,17W100P100P1333D,0,FR,Hydro Run-of-river and poundage
+629,17W100P100P1334B,0,FR,Hydro Run-of-river and poundage
+630,17W100P100P13359,0,FR,Hydro Run-of-river and poundage
+631,17W100P100P13367,0,FR,Hydro Run-of-river and poundage
+632,17W100P100P13375,0,FR,Hydro Run-of-river and poundage
+633,17W100P100P13383,0,FR,Hydro Run-of-river and poundage
+634,17W100P100P13391,0,FR,Hydro Run-of-river and poundage
+635,17W100P100P1340G,0,FR,Hydro Run-of-river and poundage
+636,17W100P100P1341E,0,FR,Hydro Run-of-river and poundage
+637,17W100P100P13650,0,FR,Hydro Run-of-river and poundage
+638,17W100P100P1366Z,2,FR,Hydro Run-of-river and poundage
+639,17W100P100P1367X,2,FR,Hydro Run-of-river and poundage
+640,17W100P100P1368V,0,FR,Hydro Run-of-river and poundage
+641,17W100P100P1369T,0,FR,Hydro Run-of-river and poundage
+642,17W100P100P13715,2,FR,Hydro Run-of-river and poundage
+643,17W100P100P1485R,0,FR,Hydro Run-of-river and poundage
+644,17W100P100P1488L,0,FR,Hydro Run-of-river and poundage
+645,17W100P100P1490Y,2,FR,Hydro Run-of-river and poundage
+646,17W100P100P1491W,0,FR,Hydro Run-of-river and poundage
+647,17W100P100P1493S,0,FR,Hydro Run-of-river and poundage
+648,17W100P100P1496M,0,FR,Hydro Run-of-river and poundage
+649,17W100P100P15262,0,FR,Hydro Run-of-river and poundage
+650,17W100P100P15270,0,FR,Hydro Run-of-river and poundage
+651,17W100P100P1595K,0,FR,Hydro Run-of-river and poundage
+652,17W100P100P1597G,0,FR,Hydro Run-of-river and poundage
+653,17W100P100P1598E,2,FR,Hydro Run-of-river and poundage
+654,17W100P100P1599C,2,FR,Hydro Run-of-river and poundage
+655,17W100P100P1600G,0,FR,Hydro Run-of-river and poundage
+656,17W100P100P16153,2,FR,Hydro Run-of-river and poundage
+657,17W100P100P1618Y,2,FR,Hydro Run-of-river and poundage
+658,17W100P100P1619W,2,FR,Hydro Run-of-river and poundage
+659,17W100P100P16218,0,FR,Hydro Run-of-river and poundage
+660,17W100P100P1734W,0,FR,Hydro Run-of-river and poundage
+661,17W100P100P1735U,0,FR,Hydro Run-of-river and poundage
+662,17W100P100P1736S,2,FR,Hydro Run-of-river and poundage
+663,17W100P100P1737Q,0,FR,Hydro Run-of-river and poundage
+664,17W100P100P1738O,0,FR,Hydro Run-of-river and poundage
+665,17W100P100P1739M,0,FR,Hydro Run-of-river and poundage
+666,17W100P100P1827P,0,FR,Hydro Run-of-river and poundage
+667,17W100P100P1828N,0,FR,Hydro Run-of-river and poundage
+668,17W100P100P1829L,0,FR,Hydro Run-of-river and poundage
+669,17W100P100P19004,2,FR,Hydro Run-of-river and poundage
+670,17W100P100P19012,0,FR,Hydro Run-of-river and poundage
+671,17W100P100P19020,0,FR,Hydro Run-of-river and poundage
+672,17W100P100P1903Z,2,FR,Hydro Run-of-river and poundage
+673,17W100P100P1929H,0,FR,Hydro Run-of-river and poundage
+674,17W100P100P1930W,0,FR,Hydro Run-of-river and poundage
+675,17W100P100P1932S,0,FR,Hydro Run-of-river and poundage
+676,17W100P100P1933Q,0,FR,Hydro Run-of-river and poundage
+677,17W100P100P1934O,0,FR,Hydro Run-of-river and poundage
+678,17W100P100P2036E,2,FR,Hydro Run-of-river and poundage
+679,17W100P100P2037C,2,FR,Hydro Run-of-river and poundage
+680,17W100P100P2038A,0,FR,Hydro Run-of-river and poundage
+681,17W100P100P20398,0,FR,Hydro Run-of-river and poundage
+682,17W100P100P20746,2,FR,Hydro Pumped Storage
+683,18W000000000F3CQ,0,ES,Solar
+684,18W000000000HBIJ,0,ES,Solar
+685,18W000000000JQVE,0,ES,Solar
+686,18W000000000K82B,0,ES,Solar
+687,18W000000000L45D,0,ES,Solar
+688,18W000000000MKI9,2,PT,Hydro Pumped Storage
+689,18W000000000MKJ7,0,PT,Hydro Pumped Storage
+690,18W000000000MKK5,2,PT,Hydro Pumped Storage
+691,18W000000000MKL3,2,PT,Hydro Pumped Storage
+692,18W000000000MKPW,0,PT,Hydro Water Reservoir
+693,18W000000000MKQU,0,PT,Hydro Water Reservoir
+694,18W000000000NX5T,2,ES,Solar
+695,18W000000000NXBH,0,ES,Wind Onshore
+696,18W000000000O4GG,0,ES,Solar
+697,18WABO1-12345-D7,2,ES,Fossil Hard coal
+698,18WABO2-12345-DY,3,ES,Fossil Hard coal
+699,18WACE3-12345-CD,2,ES,Fossil Gas
+700,18WACE4-12345-C3,2,ES,Fossil Gas
+701,18WAL11-12345-AZ,0,ES,Hydro Water Reservoir
+702,18WAL12-12345-AP,2,ES,Hydro Water Reservoir
+703,18WAL13-12345-AF,2,ES,Hydro Water Reservoir
+704,18WAL14-12345-A5,0,ES,Hydro Water Reservoir
+705,18WAL15-12345-AW,2,ES,Hydro Water Reservoir
+706,18WAL16-12345-AM,2,ES,Hydro Water Reservoir
+707,18WAL21-12345-AO,2,ES,Hydro Water Reservoir
+708,18WAL21B-12345-W,2,ES,Hydro Pumped Storage
+709,18WAL22-12345-AE,2,ES,Hydro Water Reservoir
+710,18WAL22B-12345-M,2,ES,Hydro Pumped Storage
+711,18WALG3TG1-123-9,2,ES,Fossil Gas
+712,18WALG3TG2-123-2,2,ES,Fossil Gas
+713,18WALG3TV1-123-0,3,ES,Fossil Gas
+714,18WALL1-12345-DV,2,ES,Fossil Hard coal
+715,18WALZ1-12345-BT,0,ES,Nuclear
+716,18WALZ2-12345-BJ,0,ES,Nuclear
+717,18WAMBITG1-12--P,2,ES,Fossil Gas
+718,18WAMBITG2-12-CT,0,ES,Fossil Gas
+719,18WAMBITV-123-CK,2,ES,Fossil Gas
+720,18WARC3TG1-12-C4,0,ES,Fossil Gas
+721,18WARC3TG2-12-CY,0,ES,Fossil Gas
+722,18WARC3TV-123-CP,3,ES,Fossil Gas
+723,18WARCOS1-123-CR,2,ES,Fossil Gas
+724,18WARCOS2-123-CJ,0,ES,Fossil Gas
+725,18WARRU1-1234-CW,0,ES,Fossil Gas
+726,18WARRU2-1234-CN,0,ES,Fossil Gas
+727,18WASC1-12345-BD,3,ES,Nuclear
+728,18WASC2-12345-B3,2,ES,Nuclear
+729,18WBAHITG1-12-CR,2,ES,Fossil Gas
+730,18WBAHITG2-12-CK,2,ES,Fossil Gas
+731,18WBAHITV-123-CB,3,ES,Fossil Gas
+732,18WBEL1-12345-AY,0,ES,Hydro Water Reservoir
+733,18WBEL2-12345-AO,0,ES,Hydro Water Reservoir
+734,18WBEL3-12345-AE,0,ES,Hydro Water Reservoir
+735,18WBES3-12345-C7,2,ES,Fossil Gas
+736,18WBES4-12345-CY,2,ES,Fossil Gas
+737,18WBES5TG1-123-2,2,ES,Fossil Gas
+738,18WBES5TG2-123-W,2,ES,Fossil Gas
+739,18WBES5TV-1234-K,3,ES,Fossil Gas
+740,18WBRR1-12345-DS,3,ES,Fossil Hard coal
+741,18WCA21-12345-AJ,2,ES,Hydro Water Reservoir
+742,18WCAMGI10-12-CK,0,ES,Fossil Gas
+743,18WCAMGI20-12-CC,2,ES,Fossil Gas
+744,18WCCO3-12345-DN,2,ES,Fossil Hard coal
+745,18WCED1-12345-AZ,2,ES,Hydro Water Reservoir
+746,18WCED2-12345-AP,2,ES,Hydro Water Reservoir
+747,18WCED3-12345-AF,0,ES,Hydro Water Reservoir
+748,18WCED4-12345-A5,2,ES,Hydro Water Reservoir
+749,18WCO21-12345--L,2,ES,Hydro Water Reservoir
+750,18WCO22-12345-AQ,2,ES,Hydro Water Reservoir
+751,18WCOF1-12345-B2,2,ES,Nuclear
+752,18WCOL4-12345-CF,2,ES,Fossil Gas
+753,18WCOM4-12345-D2,2,ES,Fossil Hard coal
+754,18WCOM5-12345-DT,2,ES,Fossil Hard coal
+755,18WCTGN1-1234-CP,2,ES,Fossil Gas
+756,18WCTGN2-1234-CG,2,ES,Fossil Gas
+757,18WCTGN3-1234-C7,2,ES,Fossil Gas
+758,18WCTJON1-123-CJ,2,ES,Fossil Gas
+759,18WCTJON2-123-CB,2,ES,Fossil Gas
+760,18WCTJON3-1234-E,0,ES,Fossil Gas
+761,18WCTN3TG1-12-CI,2,ES,Fossil Gas
+762,18WCTN3TG2-12-CB,2,ES,Fossil Gas
+763,18WCTN3TV-123-C2,3,ES,Fossil Gas
+764,18WCTN4TG1-123-M,3,ES,Fossil Gas
+765,18WCTN4TG2-123-F,2,ES,Fossil Gas
+766,18WCTN4TV-1234-3,3,ES,Fossil Gas
+767,18WCTNUTG1-12-C7,0,ES,Fossil Gas
+768,18WCTNUTG2-12-C0,0,ES,Fossil Gas
+769,18WCTNUTV-123-CS,0,ES,Fossil Gas
+770,18WECT3TG1-123-X,0,ES,Fossil Gas
+771,18WECT3TG2-123-Q,0,ES,Fossil Gas
+772,18WECT3TV1-123-O,0,ES,Fossil Gas
+773,18WELC1-12345-GZ,3,ES,Fossil Hard coal
+774,18WESC6TG1-12-CL,0,ES,Fossil Gas
+775,18WESC6TG2-12-CE,2,ES,Fossil Gas
+776,18WESC6TV-123-C5,3,ES,Fossil Gas
+777,18WESCCC1-123-C5,2,ES,Fossil Gas
+778,18WESCCC2-123-CY,0,ES,Fossil Gas
+779,18WESCCC3-123-CQ,0,ES,Fossil Gas
+780,18WEST21-12345-C,2,ES,Hydro Water Reservoir
+781,18WGUA1-12345-D3,2,ES,Fossil Hard coal
+782,18WGUA2-12345-DU,0,ES,Fossil Hard coal
+783,18WGYG1-12345-A6,2,ES,Hydro Water Reservoir
+784,18WJMO1-12345-AN,2,ES,Hydro Water Reservoir
+785,18WJMO2-12345-AD,2,ES,Hydro Water Reservoir
+786,18WJMO3-12345-A3,2,ES,Hydro Water Reservoir
+787,18WJMO4-12345-AU,0,ES,Hydro Water Reservoir
+788,18WLAD4-123456-B,2,ES,Fossil Hard coal
+789,18WLIT1-123456-S,3,ES,Fossil Hard coal
+790,18WLIT2-123456-I,2,ES,Fossil Hard coal
+791,18WMALA1-1234567,2,ES,Fossil Gas
+792,18WMEI1-12345-DT,2,ES,Fossil Hard coal
+793,18WMUE1-12345-FP,2,ES,Hydro Pumped Storage
+794,18WMUE1B-12345-6,2,ES,Hydro Pumped Storage
+795,18WMUE2-12345-FF,2,ES,Hydro Pumped Storage
+796,18WMUE2B-12345-X,2,ES,Hydro Pumped Storage
+797,18WMUE3-12345-F5,2,ES,Hydro Pumped Storage
+798,18WMUE3B-12345-N,2,ES,Hydro Pumped Storage
+799,18WMUE4-123456-6,2,ES,Hydro Pumped Storage
+800,18WMUE4B-12345-D,2,ES,Hydro Pumped Storage
+801,18WMUE5-123456-X,2,ES,Hydro Pumped Storage
+802,18WMUE5B-12345-3,2,ES,Hydro Pumped Storage
+803,18WMUE6-123456-N,2,ES,Hydro Pumped Storage
+804,18WMUE6B-12345-U,2,ES,Hydro Pumped Storage
+805,18WMUE7-123456-D,2,ES,Hydro Pumped Storage
+806,18WMUE7B-12345-K,2,ES,Hydro Pumped Storage
+807,18WNRC2-12345-DR,2,ES,Fossil Hard coal
+808,18WNRC3-12345-DH,2,ES,Fossil Hard coal
+809,18WPALOS1-123-CB,0,ES,Fossil Gas
+810,18WPALOS2-123-C3,0,ES,Fossil Gas
+811,18WPALOS3-123-CW,0,ES,Fossil Gas
+812,18WPBCN1-1234-PG,2,ES,Fossil Gas
+813,18WPBCN2-1234-P7,2,ES,Fossil Gas
+814,18WPGR1-12345-DF,2,ES,Fossil Hard coal
+815,18WPGR2-12345-D5,2,ES,Fossil Hard coal
+816,18WPGR3-12345-DW,0,ES,Fossil Hard coal
+817,18WPGR4-12345-DM,0,ES,Fossil Hard coal
+818,18WPGR5TG1-123-T,2,ES,Fossil Gas
+819,18WPGR5TG2-123-M,2,ES,Fossil Gas
+820,18WPGR5TV-1234-A,3,ES,Fossil Gas
+821,18WPNN3-12345-DT,3,ES,Fossil Hard coal
+822,18WPVENT1-1234-X,2,ES,Fossil Gas
+823,18WPVENT2-1234-P,2,ES,Fossil Gas
+824,18WRIC21-1234-AZ,2,ES,Hydro Water Reservoir
+825,18WROB1-12345-DW,0,ES,Fossil Hard coal
+826,18WROB2-12345-DM,2,ES,Fossil Hard coal
+827,18WSA21-12345-AX,0,ES,Hydro Water Reservoir
+828,18WSA22-12345-AN,0,ES,Hydro Water Reservoir
+829,18WSAGU1-1234-CC,0,ES,Fossil Gas
+830,18WSAGU2-1234-C3,0,ES,Fossil Gas
+831,18WSAGU3-1234-CV,2,ES,Fossil Gas
+832,18WSBO3-12345-CE,2,ES,Fossil Gas
+833,18WSLT1-12345-F1,2,ES,Hydro Pumped Storage
+834,18WSLT1B-12345-J,2,ES,Hydro Pumped Storage
+835,18WSLT2-12345-FS,2,ES,Hydro Pumped Storage
+836,18WSLT2B-12345-9,2,ES,Hydro Pumped Storage
+837,18WSLT3-12345-FI,2,ES,Hydro Pumped Storage
+838,18WSLT3B--1234-V,2,ES,Hydro Pumped Storage
+839,18WSLT4-12345-F8,2,ES,Hydro Pumped Storage
+840,18WSLT4B-12345-Q,2,ES,Hydro Pumped Storage
+841,18WSOU1-12345-A1,2,ES,Hydro Water Reservoir
+842,18WSRI2-12345-D7,2,ES,Fossil Hard coal
+843,18WSRI3-12345-DY,2,ES,Fossil Hard coal
+844,18WSRI4-123456-V,2,ES,Fossil Gas
+845,18WSRI5-12345--5,0,ES,Fossil Gas
+846,18WSROQ1-1234-CJ,0,ES,Fossil Gas
+847,18WSROQ2-1234-CA,2,ES,Fossil Gas
+848,18WSTC4-12345-CV,2,ES,Fossil Gas
+849,18WTAPOWER-12-C7,2,ES,Fossil Gas
+850,18WTARRAG-123-CG,0,ES,Fossil Gas
+851,18WTER1-12345-DO,2,ES,Fossil Hard coal
+852,18WTER2-12345-DE,2,ES,Fossil Hard coal
+853,18WTER3-12345-D4,2,ES,Fossil Hard coal
+854,18WTJE1B-12345-A,2,ES,Hydro Pumped Storage
+855,18WTJE2B-12345-0,2,ES,Hydro Pumped Storage
+856,18WTJE3B-12345-R,2,ES,Hydro Pumped Storage
+857,18WTJE4B-12345-H,2,ES,Hydro Pumped Storage
+858,18WTRL1-12345-BC,0,ES,Nuclear
+859,18WVAN2-12345-BA,2,ES,Nuclear
+860,18WVC21-12345-A7,2,ES,Hydro Water Reservoir
+861,18WVRN1-12345-A3,2,ES,Hydro Water Reservoir
+862,18WVRN1B-12345-B,2,ES,Hydro Pumped Storage
+863,18WVRN2-12345-AU,2,ES,Hydro Water Reservoir
+864,18WVRN2B-12345-1,2,ES,Hydro Pumped Storage
+865,18WVRN3-12345-AK,0,ES,Hydro Water Reservoir
+866,18WVRN3B-12345-S,2,ES,Hydro Pumped Storage
+867,18WVRN4-12345-AA,2,ES,Hydro Water Reservoir
+868,18WVRN4B-12345-I,2,ES,Hydro Pumped Storage
+869,18WVRN5-12345-A0,2,ES,Hydro Water Reservoir
+870,18WVRN5B-12345-8,2,ES,Hydro Pumped Storage
+871,18WVRN6-12345-AR,2,ES,Hydro Water Reservoir
+872,18WVRN6B-12345-Z,2,ES,Hydro Pumped Storage
+873,19W000000000007G,3,PL,Fossil Brown coal/Lignite
+874,19W000000000009C,3,PL,Fossil Brown coal/Lignite
+875,19W000000000011P,1,PL,Fossil Brown coal/Lignite
+876,19W000000000013L,3,PL,Fossil Brown coal/Lignite
+877,19W000000000015H,3,PL,Fossil Brown coal/Lignite
+878,19W000000000017D,0,PL,Fossil Brown coal/Lignite
+879,19W000000000020O,3,PL,Fossil Brown coal/Lignite
+880,19W000000000021M,2,PL,Fossil Brown coal/Lignite
+881,19W000000000022K,0,PL,Fossil Brown coal/Lignite
+882,19W000000000023I,0,PL,Fossil Brown coal/Lignite
+883,19W000000000024G,0,PL,Fossil Brown coal/Lignite
+884,19W000000000025E,0,PL,Fossil Brown coal/Lignite
+885,19W000000000026C,0,PL,Fossil Brown coal/Lignite
+886,19W000000000027A,0,PL,Fossil Brown coal/Lignite
+887,19W0000000000288,1,PL,Fossil Brown coal/Lignite
+888,19W0000000000296,3,PL,Fossil Brown coal/Lignite
+889,19W000000000030L,2,PL,Fossil Brown coal/Lignite
+890,19W000000000032H,1,PL,Fossil Brown coal/Lignite
+891,19W0000000000377,0,PL,Fossil Hard coal
+892,19W0000000000385,0,PL,Fossil Hard coal
+893,19W0000000000458,1,PL,Fossil Hard coal
+894,19W0000000000474,0,PL,Fossil Hard coal
+895,19W0000000000490,2,PL,Fossil Hard coal
+896,19W000000000051D,2,PL,Fossil Hard coal
+897,19W0000000000539,3,PL,Fossil Hard coal
+898,19W0000000000555,2,PL,Fossil Hard coal
+899,19W0000000000644,3,PL,Fossil Hard coal
+900,19W0000000000652,3,PL,Fossil Hard coal
+901,19W0000000000660,3,PL,Fossil Hard coal
+902,19W000000000067Z,3,PL,Fossil Hard coal
+903,19W000000000068X,2,PL,Fossil Hard coal
+904,19W000000000069V,2,PL,Fossil Hard coal
+905,19W0000000000709,3,PL,Fossil Hard coal
+906,19W0000000000717,3,PL,Fossil Hard coal
+907,19W000000000077W,2,PL,Fossil Hard coal
+908,19W0000000000830,2,PL,Fossil Hard coal
+909,19W000000000086V,2,PL,Fossil Hard coal
+910,19W000000000089P,2,PL,Fossil Hard coal
+911,19W000000000093Y,2,PL,Fossil Hard coal
+912,19W000000000096S,2,PL,Fossil Hard coal
+913,19W000000000097Q,0,PL,Fossil Hard coal
+914,19W000000000098O,0,PL,Fossil Hard coal
+915,19W000000000099M,2,PL,Fossil Hard coal
+916,19W000000000100Q,0,PL,Fossil Hard coal
+917,19W000000000101O,0,PL,Fossil Hard coal
+918,19W000000000102M,2,PL,Fossil Hard coal
+919,19W000000000103K,0,PL,Fossil Hard coal
+920,19W000000000105G,3,PL,Fossil Hard coal
+921,19W000000000108A,2,PL,Fossil Hard coal
+922,19W000000000110N,0,PL,Fossil Gas
+923,19W000000000112J,2,PL,Fossil Hard coal
+924,19W000000000113H,1,PL,Fossil Hard coal
+925,19W000000000114F,3,PL,Fossil Hard coal
+926,19W000000000115D,3,PL,Fossil Hard coal
+927,19W0000000001179,3,PL,Fossil Hard coal
+928,19W0000000001187,3,PL,Fossil Hard coal
+929,19W000000000121I,3,PL,Fossil Hard coal
+930,19W000000000122G,3,PL,Fossil Hard coal
+931,19W000000000124C,3,PL,Fossil Hard coal
+932,19W0000000001268,3,PL,Fossil Hard coal
+933,19W000000000130H,3,PL,Fossil Hard coal
+934,19W000000000131F,3,PL,Fossil Hard coal
+935,19W000000000132D,3,PL,Fossil Hard coal
+936,19W000000000133B,2,PL,Fossil Hard coal
+937,19W0000000001365,2,PL,Fossil Hard coal
+938,19W0000000001381,2,PL,Fossil Hard coal
+939,19W000000000141C,2,PL,Fossil Hard coal
+940,19W0000000001438,3,PL,Fossil Brown coal/Lignite
+941,19W0000000001446,3,PL,Fossil Brown coal/Lignite
+942,19W0000000001454,2,PL,Fossil Brown coal/Lignite
+943,19W0000000001462,3,PL,Fossil Brown coal/Lignite
+944,19W0000000001470,2,PL,Fossil Brown coal/Lignite
+945,19W000000000148Z,2,PL,Fossil Brown coal/Lignite
+946,19W000000000150B,3,PL,Fossil Brown coal/Lignite
+947,19W0000000001535,2,PL,Fossil Hard coal
+948,19W0000000001551,2,PL,Fossil Hard coal
+949,19W000000000157Y,2,PL,Fossil Hard coal
+950,19W000000000158W,0,PL,Fossil Hard coal
+951,19W0000000001616,2,PL,Fossil Hard coal
+952,19W0000000001624,2,PL,Fossil Hard coal
+953,19W0000000001640,2,PL,Fossil Hard coal
+954,19W000000000166X,0,PL,Biomass
+955,19W0000000001705,0,PL,Fossil Gas
+956,19W0000000001721,2,PL,Fossil Hard coal
+957,19W000000000174Y,0,PL,Fossil Hard coal
+958,19W000000000175W,0,PL,Fossil Hard coal
+959,19W000000000176U,0,PL,Fossil Hard coal
+960,19W000000000177S,2,PL,Fossil Hard coal
+961,19W000000000178Q,0,PL,Fossil Hard coal
+962,19W000000000179O,0,PL,Fossil Hard coal
+963,19W0000000001802,2,PL,Fossil Hard coal
+964,19W0000000001810,3,PL,Fossil Hard coal
+965,19W000000000182Z,3,PL,Fossil Hard coal
+966,19W000000000183X,3,PL,Fossil Hard coal
+967,19W000000000184V,1,PL,Fossil Hard coal
+968,19W000000000185T,0,PL,Fossil Hard coal
+969,19W000000000187P,2,PL,Fossil Hard coal
+970,19W000000000191Y,2,PL,Fossil Hard coal
+971,19W000000000192W,2,PL,Fossil Hard coal
+972,19W000000000194S,2,PL,Fossil Hard coal
+973,19W000000000196O,0,PL,Fossil Hard coal
+974,19W000000000201K,3,PL,Fossil Brown coal/Lignite
+975,19W000000000203G,2,PL,Fossil Brown coal/Lignite
+976,19W000000000205C,3,PL,Fossil Brown coal/Lignite
+977,19W0000000002078,2,PL,Fossil Brown coal/Lignite
+978,19W0000000002094,2,PL,Fossil Brown coal/Lignite
+979,19W000000000211H,2,PL,Fossil Brown coal/Lignite
+980,19W0000000002159,0,PL,Fossil Hard coal
+981,19W0000000002175,0,PL,Fossil Hard coal
+982,19W000000000221E,2,PL,Fossil Hard coal
+983,19W000000000223A,2,PL,Fossil Hard coal
+984,19W0000000002256,2,PL,Fossil Hard coal
+985,19W0000000002272,2,PL,Fossil Hard coal
+986,19W000000000231B,2,PL,Fossil Gas
+987,19W0000000002329,3,PL,Fossil Hard coal
+988,19W0000000002434,0,PL,Hydro Pumped Storage
+989,19W0000000002442,0,PL,Hydro Pumped Storage
+990,19W0000000002450,0,PL,Hydro Pumped Storage
+991,19W000000000246Z,0,PL,Hydro Pumped Storage
+992,19W000000000248V,0,PL,Hydro Pumped Storage
+993,19W000000000249T,2,PL,Hydro Pumped Storage
+994,19W0000000002507,0,PL,Hydro Pumped Storage
+995,19W0000000002523,0,PL,Hydro Pumped Storage
+996,19W000000000257U,3,PL,Fossil Gas
+997,19W0000000002620,0,PL,Hydro Water Reservoir
+998,19W000000000263Z,0,PL,Hydro Water Reservoir
+999,19W000000000264X,0,PL,Hydro Water Reservoir
+1000,19W000000000265V,0,PL,Hydro Water Reservoir
+1001,19W000000000266T,0,PL,Hydro Pumped Storage
+1002,19W000000000267R,0,PL,Hydro Pumped Storage
+1003,19W000000000268P,0,PL,Hydro Pumped Storage
+1004,19W000000000269N,0,PL,Hydro Pumped Storage
+1005,19W0000000002701,0,PL,Hydro Water Reservoir
+1006,19W000000000273W,0,PL,Hydro Water Reservoir
+1007,19W000000000277O,2,PL,Fossil Gas
+1008,19W000000000278M,3,PL,Fossil Hard coal
+1009,19W000000000279K,3,PL,Fossil Gas
+1010,19W000000000282V,2,PL,Fossil Brown coal/Lignite
+1011,19W000000000285P,3,PL,Fossil Hard coal
+1012,19W000000000286N,3,PL,Fossil Hard coal
+1013,19W000000000288J,2,PL,Fossil Hard coal
+1014,19W000000000291U,3,PL,Fossil Gas
+1015,21W00000000G0PVS,0,ME,Fossil Brown coal/Lignite
+1016,21W00000G10PIVAM,0,ME,Hydro Water Reservoir
+1017,21W00000G20PIVAF,0,ME,Hydro Water Reservoir
+1018,21W00000G30PIVA8,0,ME,Hydro Water Reservoir
+1019,22W20161115----Z,0,BE,Wind Offshore
+1020,22W20180615----H,0,BE,Wind Offshore
+1021,22W201806282---2,0,BE,Fossil Gas
+1022,22W201806283---Y,0,BE,Fossil Gas
+1023,22W201806284---T,1,BE,Fossil Gas
+1024,22W20181005GU--R,0,BE,Fossil Gas
+1025,22W201902151---T,1,BE,Wind Offshore
+1026,22W20220118GU--F,2,BE,Fossil Gas
+1027,22WAMERCO000008L,2,BE,Fossil Gas
+1028,22WAMERCO000009J,2,BE,Fossil Gas
+1029,22WBELWIN1500271,0,BE,Wind Offshore
+1030,22WCOOX1X0000481,2,BE,Hydro Pumped Storage
+1031,22WCOOX2X0000521,0,BE,Hydro Pumped Storage
+1032,22WCOOX3X000055N,2,BE,Hydro Pumped Storage
+1033,22WCOOX4X0000588,0,BE,Hydro Pumped Storage
+1034,22WCOOX5X000061A,0,BE,Hydro Pumped Storage
+1035,22WCOOX6X000064W,0,BE,Hydro Pumped Storage
+1036,22WDOELX1150076X,1,BE,Nuclear
+1037,22WDOELX2150077N,1,BE,Nuclear
+1038,22WDOELX3150078D,1,BE,Nuclear
+1039,22WDOELX41500793,1,BE,Nuclear
+1040,22WDROGEN0000839,0,BE,Fossil Gas
+1041,22WDROGEN0000847,0,BE,Fossil Gas
+1042,22WDROGEN0000855,1,BE,Fossil Gas
+1043,22WHERDER000125E,3,BE,Fossil Gas
+1044,22WHERDER000126C,3,BE,Fossil Gas
+1045,22WHERDER000127A,3,BE,Fossil Gas
+1046,22WINESCO150149P,1,BE,Fossil Gas
+1047,22WLANGER1501694,3,BE,Fossil Hard coal
+1048,22WLANGER150171H,3,BE,Fossil Hard coal
+1049,22WMARCIN150179H,2,BE,Fossil Gas
+1050,22WNORTHW150187B,0,BE,Wind Offshore
+1051,22WRINGVA150209C,0,BE,Fossil Gas
+1052,22WRODENH150213L,3,BE,Biomass
+1053,22WSAINT-150221B,0,BE,Fossil Gas
+1054,22WSCHELD1502261,0,BE,Fossil Gas
+1055,22WT-POWE150244W,1,BE,Fossil Gas
+1056,22WTIHANG150239G,2,BE,Nuclear
+1057,22WTIHANG150240V,0,BE,Nuclear
+1058,22WTIHANG150241T,3,BE,Nuclear
+1059,22WTIHANG150242R,3,BE,Nuclear
+1060,22WZANDVL150255D,0,BE,Fossil Gas
+1061,22WZELZAT1502618,3,BE,Fossil Gas
+1062,24WG--EBOG31---D,0,SK,Nuclear
+1063,24WG--EBOG32---8,0,SK,Nuclear
+1064,24WG--EBOG41---7,0,SK,Nuclear
+1065,24WG--EBOG42---2,0,SK,Nuclear
+1066,24WG--EMOG11---0,0,SK,Nuclear
+1067,24WG--EMOG12---W,0,SK,Nuclear
+1068,24WG--EMOG21---V,0,SK,Nuclear
+1069,24WG--EMOG22---Q,0,SK,Nuclear
+1070,24WG--EMOG32---K,2,SK,Nuclear
+1071,24WG--ENOG01---Y,2,SK,Fossil Brown coal/Lignite
+1072,24WG--ENOG02---T,2,SK,Fossil Brown coal/Lignite
+1073,24WG--ENOG03---O,2,SK,Fossil Brown coal/Lignite
+1074,24WG--ENOG04---J,2,SK,Fossil Brown coal/Lignite
+1075,24WG--EOKG11---E,2,SK,Fossil Gas
+1076,24WG--EVOG15---A,2,SK,Fossil Hard coal
+1077,24WG--EVOG16---5,0,SK,Fossil Hard coal
+1078,24WG--HCVG01---A,0,SK,Hydro Pumped Storage
+1079,24WG--HCVG02---5,0,SK,Hydro Pumped Storage
+1080,24WG--HCVG03---0,0,SK,Hydro Pumped Storage
+1081,24WG--HCVG04---W,0,SK,Hydro Pumped Storage
+1082,24WG--HCVG05---R,0,SK,Hydro Pumped Storage
+1083,24WG--HCVG06---M,0,SK,Hydro Pumped Storage
+1084,26WCNTRLNTRNO118,1,IT,Hydro Water Reservoir
+1085,26WMNTALTOCLE10T,3,IT,Fossil Gas
+1086,26WNPWRBRNDSI10U,0,IT,Fossil Gas
+1087,26WNPWRFRRRRB10Q,2,IT,Fossil Gas
+1088,26WNPWRRVENNA10P,2,IT,Fossil Gas
+1089,26WNPWRRVENNA11N,0,IT,Fossil Gas
+1090,26WPONTVENTOUX1J,1,IT,Hydro Pumped Storage
+1091,26WPREM-GROSIO10,1,IT,Hydro Run-of-river and poundage
+1092,26WTAGLIAMENTO1J,1,IT,Hydro Run-of-river and poundage
+1093,26WTAVAZZANO-C64,2,IT,Fossil Gas
+1094,26WUBRNDSSUDCE1N,3,IT,Fossil Hard coal
+1095,26WUBRNDSSUDCE2L,0,IT,Fossil Hard coal
+1096,26WUBRNDSSUDCE3J,3,IT,Fossil Hard coal
+1097,26WUBRNDSSUDCE4H,3,IT,Fossil Hard coal
+1098,26WUCCGTPRILIA15,3,IT,Fossil Gas
+1099,26WUCETSERVOLA1U,0,IT,Fossil Gas
+1100,26WUCNTRLDSCND16,1,IT,Fossil Gas
+1101,26WUCNTRLDSCND24,0,IT,Fossil Gas
+1102,26WUCNTRLDTRNL1C,3,IT,Fossil Gas
+1103,26WUCNTRLDTVRL1D,2,IT,Fossil Gas
+1104,26WUCNTRLFLVCR73,3,IT,Fossil Gas
+1105,26WUCTNUCENORD2R,3,IT,Fossil Gas
+1106,26WUCTNUCENORD3P,3,IT,Fossil Gas
+1107,26WUCTTAMARETE11,1,IT,Fossil Gas
+1108,26WUETQ-ROVINA1Y,3,IT,Hydro Pumped Storage
+1109,26WUETQCHIOTAS1O,3,IT,Hydro Pumped Storage
+1110,26WUISABENERGY2N,3,IT,Fossil Gas
+1111,26WUISABENERGY3L,3,IT,Fossil Coal-derived gas
+1112,26WUMONCALIERI36,2,IT,Fossil Gas
+1113,26WUNCTLVRNFRR1D,3,IT,Fossil Gas
+1114,26WUNERAVELINO11,3,IT,Hydro Run-of-river and poundage
+1115,26WUNPWRBRNDSI82,2,IT,Fossil Gas
+1116,26WUNPWRBRNDSI90,0,IT,Fossil Gas
+1117,26WUNPWRFRRRRB8C,2,IT,Fossil Gas
+1118,26WUNPWRFRRRRB9A,2,IT,Fossil Gas
+1119,26WUNPWRLVORNO77,2,IT,Fossil Gas
+1120,26WUNPWRMNTOVA2N,2,IT,Fossil Gas
+1121,26WUNPWRMNTOVA3L,2,IT,Fossil Gas
+1122,26WUNPWRRVENNA93,2,IT,Fossil Gas
+1123,26WUNRGAMOLISE1H,1,IT,Fossil Gas
+1124,26WUROSELECTRA1D,0,IT,Fossil Gas
+1125,26WUSCTNPWPFRR28,2,IT,Fossil Gas
+1126,26WUSCTNPWPFRR36,3,IT,Fossil Gas
+1127,26WUSLDGLRENZA2M,2,IT,Hydro Water Reservoir
+1128,26WUSMRICRICHI16,3,IT,Fossil Gas
+1129,26WUSRGNPGLCNT1P,1,IT,Fossil Gas
+1130,26WUSULCIS-CEN2C,3,IT,Fossil Hard coal
+1131,26WUSZRNGNRZNE21,3,IT,Hydro Water Reservoir
+1132,26WUTERMINI-I42G,0,IT,Fossil Gas
+1133,26WUTORINONORD1C,0,IT,Fossil Gas
+1134,26WUTORVISCOSA1F,3,IT,Fossil Gas
+1135,26WUTRRVLDLIGA55,3,IT,Fossil Gas
+1136,26WUTRRVLDLIGA63,2,IT,Fossil Gas
+1137,26WUUALTOMONTE1Z,3,IT,Fossil Gas
+1138,26WUUANAPO-C-L1O,1,IT,Hydro Pumped Storage
+1139,26WUUBARGI-CEN11,3,IT,Hydro Pumped Storage
+1140,26WUUCTE-DEL-M2E,0,IT,Fossil Gas
+1141,26WUUFIUMESANT3F,3,IT,Fossil Hard coal
+1142,26WUUFIUMESANT4D,3,IT,Fossil Hard coal
+1143,26WUULA-CASELL1P,3,IT,Fossil Gas
+1144,26WUULA-CASELL2N,3,IT,Fossil Gas
+1145,26WUULA-CASELL3L,3,IT,Fossil Gas
+1146,26WUULA-CASELL4J,3,IT,Fossil Gas
+1147,26WUULARINO-TG1C,0,IT,Fossil Gas
+1148,26WUULARINO-TG2A,2,IT,Fossil Gas
+1149,26WUUMONCALRPW2S,3,IT,Fossil Gas
+1150,26WUUOSTIGLIA12K,3,IT,Fossil Gas
+1151,26WUUPIETRAFIT51,3,IT,Fossil Gas
+1152,26WUUPORTO-COR3N,3,IT,Fossil Gas
+1153,26WUUPORTO-COR4L,3,IT,Fossil Gas
+1154,26WUUPRESENZAN11,3,IT,Hydro Pumped Storage
+1155,26WUUPROVVIDEN13,3,IT,Hydro Pumped Storage
+1156,26WUURIZZICONI1S,0,IT,Fossil Gas
+1157,26WUURIZZICONI2Q,0,IT,Fossil Gas
+1158,26WUURONCOVALG13,3,IT,Hydro Pumped Storage
+1159,26WUUROSSANO-T1T,3,IT,Fossil Gas
+1160,26WUUROSSANO-T3P,3,IT,Fossil Gas
+1161,26WUUS-MASS-CL10,1,IT,Hydro Pumped Storage
+1162,26WUUSFLORIANO2R,0,IT,Hydro Run-of-river and poundage
+1163,26WUUSOVERZENE1M,3,IT,Hydro Water Reservoir
+1164,26WUUSOVERZENE2K,2,IT,Hydro Water Reservoir
+1165,26WUUSPARANISE1Q,2,IT,Fossil Gas
+1166,26WUUSPARANISE2O,2,IT,Fossil Gas
+1167,26WUUSPEZIA-CE3T,3,IT,Fossil Hard coal
+1168,26WUUSULCIS-CE3T,2,IT,Fossil Hard coal
+1169,26WUUTAVAZZANO5Z,3,IT,Fossil Gas
+1170,26WUUTERMINI-I4H,2,IT,Fossil Gas
+1171,26WUUTERMINI-I5F,2,IT,Fossil Gas
+1172,26WUUTERMINI-I6D,3,IT,Fossil Gas
+1173,26WUUTORREVALN2K,3,IT,Fossil Hard coal
+1174,26WUUTORREVALN3I,3,IT,Fossil Hard coal
+1175,26WUUTORREVALN4G,3,IT,Fossil Hard coal
+1176,26WUUTRAPANI-C1M,0,IT,Fossil Gas
+1177,26WUUTRAPANI-C2K,2,IT,Fossil Gas
+1178,26WUUUALTOADDA15,1,IT,Hydro Pumped Storage
+1179,26WUUUCAPRIATI1B,3,IT,Hydro Pumped Storage
+1180,26WUUUCHIVASSO1V,3,IT,Fossil Gas
+1181,26WUUUCHIVASSO2T,1,IT,Fossil Gas
+1182,26WUUUFUSINA-T18,2,IT,Fossil Hard coal
+1183,26WUUUFUSINA-T26,2,IT,Fossil Hard coal
+1184,26WUUUFUSINA-T34,3,IT,Fossil Hard coal
+1185,26WUUUFUSINA-T42,3,IT,Fossil Hard coal
+1186,26WUUUGARGNANO18,3,IT,Hydro Pumped Storage
+1187,26WUUUMONFALCO12,2,IT,Fossil Hard coal
+1188,26WUUUMONFALCO20,2,IT,Fossil Hard coal
+1189,26WUUUMONTALTO1L,3,IT,Fossil Gas
+1190,26WUUUMONTALTO2J,3,IT,Fossil Gas
+1191,26WUUUMONTALTO3H,3,IT,Fossil Gas
+1192,26WUUUMONTORIO1P,2,IT,Hydro Run-of-river and poundage
+1193,26WUUUOSTIGLIA33,2,IT,Fossil Gas
+1194,26WUUUPIACENZA4O,1,IT,Other
+1195,26WUUUPRIOLO-C13,3,IT,Fossil Gas
+1196,26WUUUPRIOLO-C21,3,IT,Fossil Gas
+1197,26WUUUS-F--DEL16,2,IT,Fossil Oil
+1198,26WUUUS-F--DEL24,2,IT,Fossil Oil
+1199,26WUUUS-F--DEL5Z,3,IT,Fossil Oil
+1200,26WUUUS-F--DEL6X,3,IT,Fossil Oil
+1201,26WUUUSBARBARA3W,2,IT,Fossil Gas
+1202,26WUUUSGIACOMO3I,3,IT,Hydro Pumped Storage
+1203,26WUUUUAZOTATI5V,3,IT,Fossil Gas
+1204,26WUUUUCANDELA1R,3,IT,Fossil Gas
+1205,26WUUUUCARDANO16,0,IT,Hydro Run-of-river and poundage
+1206,26WUUUUCASSANO2I,3,IT,Fossil Gas
+1207,26WUUUUFADALTO1G,3,IT,Hydro Pumped Storage
+1208,26WUUUUGALLETO2T,3,IT,Hydro Run-of-river and poundage
+1209,26WUUUULEVANTE35,0,IT,Fossil Gas
+1210,26WUUUULEVANTE43,2,IT,Fossil Gas
+1211,26WUUUULEVANTE51,3,IT,Fossil Gas
+1212,26WUUUUMILAZZO1Z,2,IT,Fossil Gas
+1213,26WUUUUNAPOLIL48,3,IT,Fossil Gas
+1214,26WUUUURIVADEL38,0,IT,Hydro Pumped Storage
+1215,26WUUUUSERMIDE3O,0,IT,Fossil Gas
+1216,26WUUUUSERMIDE4M,1,IT,Fossil Gas
+1217,26WUUUUTALORO11V,1,IT,Hydro Pumped Storage
+1218,26WUUUUTORBOLE1H,0,IT,Hydro Run-of-river and poundage
+1219,26WUUUUTURBIGO3M,3,IT,Fossil Gas
+1220,26WUUUUTURBIGO4K,3,IT,Fossil Gas
+1221,26WUUUUUCARONA1K,2,IT,Hydro Water Reservoir
+1222,26WUUUUUCHIESE16,1,IT,Hydro Run-of-river and poundage
+1223,26WUUUUUCIMEGO1U,3,IT,Hydro Water Reservoir
+1224,26WUUUUUMUCONE1Q,3,IT,Hydro Run-of-river and poundage
+1225,26WUUUUUORTICA1F,1,IT,Hydro Run-of-river and poundage
+1226,26WUUUUURATINO1O,0,IT,Fossil Gas
+1227,26WUUUUUROSONE16,0,IT,Hydro Water Reservoir
+1228,26WUUUUUSARLUX1W,3,IT,Fossil Coal-derived gas
+1229,26WUUUUUUBUSSI19,0,IT,Fossil Gas
+1230,26WUUUUUUDUINO1A,1,IT,Fossil Gas
+1231,26WUUUUUUEDOLO19,3,IT,Hydro Pumped Storage
+1232,26WUUUUUUGISSI19,0,IT,Fossil Gas
+1233,26WUUUUUUGISSI27,0,IT,Fossil Gas
+1234,26WUUUUUULEINI1V,2,IT,Fossil Gas
+1235,26WUUUUUUNOVEL1U,2,IT,Other
+1236,26WUUUUUUROSEN1B,1,IT,Fossil Gas
+1237,26WUUUUUUUMESE16,0,IT,Hydro Run-of-river and poundage
+1238,26WUUUUUUUNOCE1E,1,IT,Hydro Run-of-river and poundage
+1239,26WUUUUUVENAUS10,3,IT,Hydro Water Reservoir
+1240,26WUUUUVOGHERA14,0,IT,Fossil Gas
+1241,26WUUUVADOTERM5P,3,IT,Fossil Gas
+1242,26WUUUVERZUOLO2R,1,IT,Fossil Gas
+1243,26WUUVALLE-SEC1Z,0,IT,Geothermal
+1244,26WUUVALPELLIN15,0,IT,Hydro Water Reservoir
+1245,26WUUZ-FIORANO1X,3,IT,Hydro Pumped Storage
+1246,26WUUZMUCONE1S1I,0,IT,Hydro Water Reservoir
+1247,26WUVALMALENCO17,3,IT,Hydro Run-of-river and poundage
+1248,27W-GU-ECHVG1--C,2,CZ,Fossil Brown coal/Lignite
+1249,27W-GU-ECHVG2--8,3,CZ,Fossil Brown coal/Lignite
+1250,27W-GU-ECHVG3--4,3,CZ,Fossil Brown coal/Lignite
+1251,27W-GU-ECHVG4--0,3,CZ,Fossil Brown coal/Lignite
+1252,27W-GU-EDALG1--2,0,CZ,Hydro Pumped Storage
+1253,27W-GU-EDALG2--Z,0,CZ,Hydro Pumped Storage
+1254,27W-GU-EDALG3--V,0,CZ,Hydro Pumped Storage
+1255,27W-GU-EDALG4--R,0,CZ,Hydro Pumped Storage
+1256,27W-GU-EDETG1--0,0,CZ,Fossil Hard coal
+1257,27W-GU-EDETG2--X,0,CZ,Fossil Hard coal
+1258,27W-GU-EDETG3--T,1,CZ,Fossil Hard coal
+1259,27W-GU-EDETG4--P,0,CZ,Fossil Hard coal
+1260,27W-GU-EDSTG1--D,0,CZ,Hydro Pumped Storage
+1261,27W-GU-EDSTG2--9,0,CZ,Hydro Pumped Storage
+1262,27W-GU-EDUKB1--4,1,CZ,Nuclear
+1263,27W-GU-EDUKB2--0,0,CZ,Nuclear
+1264,27W-GU-EDUKB3--X,1,CZ,Nuclear
+1265,27W-GU-EDUKB4--T,1,CZ,Nuclear
+1266,27W-GU-EECKG4--B,0,CZ,Fossil Brown coal/Lignite
+1267,27W-GU-EECKG5--7,0,CZ,Fossil Brown coal/Lignite
+1268,27W-GU-ELEDG6--C,1,CZ,Fossil Brown coal/Lignite
+1269,27W-GU-EME3G11-4,1,CZ,Fossil Brown coal/Lignite
+1270,27W-GU-EPC1G2--8,2,CZ,Fossil Brown coal/Lignite
+1271,27W-GU-EPC1G3--4,2,CZ,Fossil Brown coal/Lignite
+1272,27W-GU-EPC1G4--0,3,CZ,Fossil Brown coal/Lignite
+1273,27W-GU-EPC1G5--X,2,CZ,Fossil Brown coal/Lignite
+1274,27W-GU-EPC1G6--T,0,CZ,Fossil Brown coal/Lignite
+1275,27W-GU-EPC2B21-L,1,CZ,Fossil Gas
+1276,27W-GU-EPR2-G22M,3,CZ,Fossil Brown coal/Lignite
+1277,27W-GU-EPR2G21-2,0,CZ,Fossil Brown coal/Lignite
+1278,27W-GU-EPR2G23-X,1,CZ,Fossil Brown coal/Lignite
+1279,27W-GU-EPR2G24-U,0,CZ,Fossil Brown coal/Lignite
+1280,27W-GU-EPR2G25-R,0,CZ,Fossil Brown coal/Lignite
+1281,27W-GU-EPVR-B1-L,1,CZ,Fossil Gas
+1282,27W-GU-EPVR-B2-I,3,CZ,Fossil Gas
+1283,27W-GU-ETEMG1--P,1,CZ,Nuclear
+1284,27W-GU-ETEMG2--L,1,CZ,Nuclear
+1285,27W-GU-ETI2-G6-A,3,CZ,Fossil Brown coal/Lignite
+1286,27W-GU-ETU2G21-N,1,CZ,Fossil Brown coal/Lignite
+1287,27W-GU-ETU2G22-K,0,CZ,Fossil Brown coal/Lignite
+1288,27W-GU-ETU2G23-H,0,CZ,Fossil Brown coal/Lignite
+1289,27W-GU-ETU2G24-E,0,CZ,Fossil Brown coal/Lignite
+1290,27WGU-EECKG7---A,2,CZ,Fossil Brown coal/Lignite
+1291,28W-G-0000000130,0,SI,Fossil Gas
+1292,28W-G-000000014Z,0,SI,Fossil Gas
+1293,28W-G-000000041W,0,SI,Nuclear
+1294,28W-G-000000054N,3,SI,Fossil Brown coal/Lignite
+1295,28W-G-000000055L,3,SI,Fossil Brown coal/Lignite
+1296,28W-G-000000056J,1,SI,Fossil Brown coal/Lignite
+1297,28W-G-000000057H,1,SI,Fossil Brown coal/Lignite
+1298,28W-G-000000058F,1,SI,Fossil Brown coal/Lignite
+1299,28W-G-000000121Y,3,SI,Fossil Brown coal/Lignite
+1300,28W-G-000000123U,2,SI,Hydro Pumped Storage
+1301,29WGU-AGDIMI-I-8,0,GR,Fossil Brown coal/Lignite
+1302,29WGU-AGDIMI-II7,0,GR,Fossil Brown coal/Lignite
+1303,29WGU-AGDIMI-IVI,0,GR,Fossil Brown coal/Lignite
+1304,29WGU-AGDIMI-V-6,0,GR,Fossil Brown coal/Lignite
+1305,29WGU-AGDIMIIII5,0,GR,Fossil Brown coal/Lignite
+1306,29WGU-ALIVERI-5Q,0,GR,Fossil Gas
+1307,29WGU-ALOUMINIOF,1,GR,Fossil Gas
+1308,29WGU-AMYNT-I--7,0,GR,Fossil Brown coal/Lignite
+1309,29WGU-AMYNT-II-O,0,GR,Fossil Brown coal/Lignite
+1310,29WGU-ASOMATON-J,0,GR,Hydro Water Reservoir
+1311,29WGU-ELPEDISTHK,0,GR,Fossil Gas
+1312,29WGU-ENERGEITH4,0,GR,Fossil Gas
+1313,29WGU-HERON-CC-5,0,GR,Fossil Gas
+1314,29WGU-HERON1---C,0,GR,Fossil Gas
+1315,29WGU-HERON2---7,0,GR,Fossil Gas
+1316,29WGU-HERON3---2,0,GR,Fossil Gas
+1317,29WGU-ILARIONAS4,2,GR,Hydro Water Reservoir
+1318,29WGU-KARDIAI--4,2,GR,Fossil Brown coal/Lignite
+1319,29WGU-KARDIAII-L,2,GR,Fossil Brown coal/Lignite
+1320,29WGU-KARDIAIIIK,1,GR,Fossil Brown coal/Lignite
+1321,29WGU-KARDIAIV-J,0,GR,Fossil Brown coal/Lignite
+1322,29WGU-KASTRAKI-O,0,GR,Hydro Water Reservoir
+1323,29WGU-KOMOTIN-IA,1,GR,Fossil Gas
+1324,29WGU-KORITHPWR3,0,GR,Fossil Gas
+1325,29WGU-KREMASTONG,1,GR,Hydro Water Reservoir
+1326,29WGU-LAVRIO-IV8,0,GR,Fossil Gas
+1327,29WGU-LAVRIO-V-X,2,GR,Fossil Gas
+1328,29WGU-MEGAL-IV-Z,0,GR,Fossil Brown coal/Lignite
+1329,29WGU-MEGAL-V--5,3,GR,Fossil Gas
+1330,29WGU-MEGALIII-G,0,GR,Fossil Brown coal/Lignite
+1331,29WGU-MELITII--3,0,GR,Fossil Brown coal/Lignite
+1332,29WGU-POLYFYTO-Q,1,GR,Hydro Water Reservoir
+1333,29WGU-PROTERGCC2,0,GR,Fossil Gas
+1334,29WGU-THESAVRO1B,0,GR,Hydro Pumped Storage
+1335,29WGU-THESAVRO29,0,GR,Hydro Pumped Storage
+1336,29WGU-THESAVRO37,0,GR,Hydro Pumped Storage
+1337,29WGU-YISPAOOU-5,1,GR,Hydro Water Reservoir
+1338,29WGU-YISPOURN17,1,GR,Hydro Water Reservoir
+1339,29WGU-YISSFIKIAE,3,GR,Hydro Pumped Storage
+1340,30UBRAZBRAZ5---T,2,RO,Fossil Gas
+1341,30UBRAZBRAZ6---O,2,RO,Fossil Gas
+1342,30UCERNCERN1---P,1,RO,Nuclear
+1343,30UCERNCERN2---K,1,RO,Nuclear
+1344,30UHIDRLOTR2---7,0,RO,Hydro Water Reservoir
+1345,30W-PETR-BRAZ1-W,1,RO,Fossil Gas
+1346,30WBRAZBRAZ5---1,2,RO,Fossil Gas
+1347,30WBRAZBRAZ6---X,0,RO,Fossil Gas
+1348,30WCERNCERN1---Y,0,RO,Nuclear
+1349,30WCERNCERN2---T,0,RO,Nuclear
+1350,30WCRAICRA21---Y,2,RO,Fossil Brown coal/Lignite
+1351,30WCRAICRA22---T,2,RO,Fossil Brown coal/Lignite
+1352,30WCRAIISAL7---D,3,RO,Fossil Brown coal/Lignite
+1353,30WCRAIISAL8---8,3,RO,Fossil Brown coal/Lignite
+1354,30WELCEBUCU3---2,2,RO,Fossil Gas
+1355,30WELCEBUCU4---Y,2,RO,Fossil Gas
+1356,30WELCEBUCU5---T,0,RO,Fossil Gas
+1357,30WELCEBUCV2---1,0,RO,Fossil Gas
+1358,30WELCEBUCV3---X,0,RO,Fossil Gas
+1359,30WELCEIERN1---E,2,RO,Fossil Gas
+1360,30WELCEIERN2---9,2,RO,Fossil Gas
+1361,30WELCEIERN3---4,2,RO,Fossil Gas
+1362,30WELCEIERN5---V,3,RO,Fossil Gas
+1363,30WELCEIERN6---Q,3,RO,Fossil Gas
+1364,30WELCENIERN4--M,2,RO,Fossil Gas
+1365,30WGALAGALA5---Q,0,RO,Fossil Gas
+1366,30WGALAGALA6---L,2,RO,Fossil Gas
+1367,30WGALATGALA3--G,0,RO,Fossil Gas
+1368,30WHIDRLOTR1---C,0,RO,Hydro Water Reservoir
+1369,30WHIDRLOTR2---G,0,RO,Hydro Water Reservoir
+1370,30WHIDRLOTR3---B,0,RO,Hydro Water Reservoir
+1371,30WHIDRPDFE1---R,0,RO,Hydro Run-of-river and poundage
+1372,30WHIDRPDFE2---M,0,RO,Hydro Run-of-river and poundage
+1373,30WHIDRPDFE3---H,2,RO,Hydro Run-of-river and poundage
+1374,30WHIDRPDFE4---C,3,RO,Hydro Run-of-river and poundage
+1375,30WHIDRPDFE5---7,0,RO,Hydro Run-of-river and poundage
+1376,30WHIDRPDFE6---2,0,RO,Hydro Run-of-river and poundage
+1377,30WHIDRRIUM1---1,2,RO,Hydro Water Reservoir
+1378,30WHIDRRIUM2---W,0,RO,Hydro Water Reservoir
+1379,30WMINTMINT2---1,3,RO,Fossil Hard coal
+1380,30WMINTMINT3---X,3,RO,Fossil Hard coal
+1381,30WMINTMINT4---S,0,RO,Fossil Hard coal
+1382,30WMINTMINT5---N,3,RO,Fossil Hard coal
+1383,30WMINTMINT6---I,2,RO,Fossil Hard coal
+1384,30WROVIROVI3---K,2,RO,Fossil Brown coal/Lignite
+1385,30WROVIROVI4---F,2,RO,Fossil Brown coal/Lignite
+1386,30WROVIROVI5---A,0,RO,Fossil Brown coal/Lignite
+1387,30WROVIROVI6---5,0,RO,Fossil Brown coal/Lignite
+1388,30WTE--BORZ7---3,0,RO,Fossil Gas
+1389,30WTE--BRAI11--0,0,RO,Fossil Gas
+1390,30WTE--BRAI2---3,0,RO,Fossil Gas
+1391,30WTE-PARO124--W,2,RO,Fossil Hard coal
+1392,30WTURCTURC1---Y,2,RO,Fossil Brown coal/Lignite
+1393,30WTURCTURC3---O,2,RO,Fossil Brown coal/Lignite
+1394,30WTURCTURC4---J,2,RO,Fossil Brown coal/Lignite
+1395,30WTURCTURC5---E,2,RO,Fossil Brown coal/Lignite
+1396,30WTURCTURC7---4,2,RO,Fossil Brown coal/Lignite
+1397,32W001100100007O,0,BG,Fossil Brown coal/Lignite
+1398,32W001100100008M,0,BG,Fossil Brown coal/Lignite
+1399,32W001100100009K,2,BG,Fossil Brown coal/Lignite
+1400,32W001100100016N,0,BG,Nuclear
+1401,32W001100100017L,1,BG,Nuclear
+1402,32W001100100024O,0,BG,Fossil Hard coal
+1403,32W001100100031R,0,BG,Fossil Gas
+1404,32W001100100032P,0,BG,Fossil Gas
+1405,32W001100100037F,0,BG,Fossil Brown coal/Lignite
+1406,32W001100100038D,0,BG,Fossil Brown coal/Lignite
+1407,32W001100100039B,0,BG,Fossil Brown coal/Lignite
+1408,32W001100100040Q,0,BG,Fossil Brown coal/Lignite
+1409,32W001100100041O,1,BG,Fossil Brown coal/Lignite
+1410,32W001100100042M,3,BG,Fossil Brown coal/Lignite
+1411,32W001100100043K,1,BG,Fossil Brown coal/Lignite
+1412,32W001100100044I,1,BG,Fossil Brown coal/Lignite
+1413,32W001100100045G,0,BG,Fossil Brown coal/Lignite
+1414,32W001100100046E,0,BG,Fossil Brown coal/Lignite
+1415,32W001100100047C,0,BG,Fossil Brown coal/Lignite
+1416,32W001100100048A,0,BG,Fossil Brown coal/Lignite
+1417,32W0011001000498,0,BG,Fossil Brown coal/Lignite
+1418,32W0011001000935,0,BG,Fossil Brown coal/Lignite
+1419,32W0011001000943,0,BG,Fossil Brown coal/Lignite
+1420,32W001100100366X,0,BG,Hydro Water Reservoir
+1421,32W001100100367V,2,BG,Hydro Water Reservoir
+1422,33W-HECVRUTOKG1B,1,MK,Hydro Water Reservoir
+1423,33W-HECVRUTOKG29,1,MK,Hydro Water Reservoir
+1424,33W-HECVRUTOKG37,1,MK,Hydro Water Reservoir
+1425,33W-HECVRUTOKG45,1,MK,Hydro Water Reservoir
+1426,33W-TECBITOLAG1Q,1,MK,Fossil Brown coal/Lignite
+1427,33W-TECBITOLAG2O,1,MK,Fossil Brown coal/Lignite
+1428,33W-TECBITOLAG3M,1,MK,Fossil Brown coal/Lignite
+1429,33WHECTIKVESG1-3,0,MK,Hydro Water Reservoir
+1430,33WHECTIKVESG2-0,0,MK,Hydro Water Reservoir
+1431,33WHECTIKVESG3-Y,0,MK,Hydro Water Reservoir
+1432,33WHECTIKVESG4-V,0,MK,Hydro Water Reservoir
+1433,33WTECOSLOMEJG1V,1,MK,Fossil Brown coal/Lignite
+1434,34WEHP-BBASHG1-V,0,RS,Hydro Run-of-river and poundage
+1435,34WEHP-BBASHG2-S,0,RS,Hydro Run-of-river and poundage
+1436,34WEHP-BBASHG3-P,0,RS,Hydro Run-of-river and poundage
+1437,34WEHP-BBASHG4-M,0,RS,Hydro Run-of-river and poundage
+1438,34WEHP-DJE-1G1-R,0,RS,Hydro Run-of-river and poundage
+1439,34WEHP-DJE-1G2-O,0,RS,Hydro Run-of-river and poundage
+1440,34WEHP-DJE-1G3-L,0,RS,Hydro Run-of-river and poundage
+1441,34WEHP-DJE-1G4-I,0,RS,Hydro Run-of-river and poundage
+1442,34WEHP-DJE-1G5-F,0,RS,Hydro Run-of-river and poundage
+1443,34WEHP-DJE-1G6-C,0,RS,Hydro Run-of-river and poundage
+1444,34WEHR-BBASRG1-X,0,RS,Hydro Pumped Storage
+1445,34WEHR-BBASRG2-U,2,RS,Hydro Pumped Storage
+1446,34WETG-NOSADG1-Z,2,RS,Fossil Gas
+1447,34WETG-NOSADG2-W,2,RS,Fossil Gas
+1448,34WETG-ZRENJG1-4,0,RS,Other
+1449,34WETL-KOLUAG5-D,2,RS,Fossil Brown coal/Lignite
+1450,34WETL-KOSTAG1-J,0,RS,Fossil Brown coal/Lignite
+1451,34WETL-KOSTAG2-G,2,RS,Fossil Brown coal/Lignite
+1452,34WETL-KOSTBG1-E,0,RS,Fossil Brown coal/Lignite
+1453,34WETL-KOSTBG2-B,2,RS,Fossil Brown coal/Lignite
+1454,34WETL-MORAVG1-H,2,RS,Fossil Brown coal/Lignite
+1455,34WETL-TENTAG1-G,2,RS,Fossil Brown coal/Lignite
+1456,34WETL-TENTAG2-D,2,RS,Fossil Brown coal/Lignite
+1457,34WETL-TENTAG3-A,0,RS,Fossil Brown coal/Lignite
+1458,34WETL-TENTAG4-7,2,RS,Fossil Brown coal/Lignite
+1459,34WETL-TENTAG5-4,2,RS,Fossil Brown coal/Lignite
+1460,34WETL-TENTAG6-1,2,RS,Fossil Brown coal/Lignite
+1461,34WETL-TENTBG1-B,2,RS,Fossil Brown coal/Lignite
+1462,34WETL-TENTBG2-8,2,RS,Fossil Brown coal/Lignite
+1463,38W-KTJ-AUV-G1-8,3,EE,Fossil Oil shale
+1464,38W-MT--BEJG11-2,3,EE,Fossil Oil shale
+1465,38W-MT--BEJG1Q-1,2,EE,Fossil Oil shale
+1466,38W-MT--EEJG1--L,2,EE,Fossil Oil shale
+1467,38W-MT--EEJG2--H,2,EE,Fossil Oil shale
+1468,38W-MT--EEJG3--D,3,EE,Fossil Oil shale
+1469,38W-MT--EEJG4--9,3,EE,Fossil Oil shale
+1470,38W-MT--EEJG5--5,3,EE,Fossil Oil shale
+1471,38W-MT--EEJG6--1,3,EE,Fossil Oil shale
+1472,38W-MT--EEJG7--Y,2,EE,Fossil Oil shale
+1473,38W-MT--EEJG8--U,3,EE,Fossil Oil shale
+1474,41WKHAE-----HA1Q,0,LT,Hydro Pumped Storage
+1475,41WKHAE-----HA2O,0,LT,Hydro Pumped Storage
+1476,41WKHAE-----HA3M,0,LT,Hydro Pumped Storage
+1477,41WKHAE-----HA4K,0,LT,Hydro Pumped Storage
+1478,41WLE-------TG7K,0,LT,Fossil Gas
+1479,41WLE-------TG8I,0,LT,Fossil Gas
+1480,41WLE-------TG9G,0,LT,Fossil Gas
+1481,43W-PLAV-HG4---U,0,LV,Hydro Run-of-river and poundage
+1482,43W-RTEC-2-TG1-K,0,LV,Fossil Gas
+1483,43W-RTEC-2-TG2-H,0,LV,Fossil Gas
+1484,44W-00000000009F,0,FI,Fossil Hard coal
+1485,44W-T-KT-100000D,0,FI,Fossil Oil
+1486,44W-T-KT-100001B,0,FI,Fossil Oil
+1487,44W-T-LV-100004E,0,FI,Fossil Hard coal
+1488,44W-T-LV-100005C,3,FI,Fossil Hard coal
+1489,44W-T-LV-100006A,0,FI,Fossil Hard coal
+1490,44W-T-LV-1000086,0,FI,Fossil Peat
+1491,44W-T-YT-100000L,2,FI,Fossil Hard coal
+1492,44W-T-YT-100001J,2,FI,Fossil Hard coal
+1493,44W-T-YT-100005B,0,FI,Fossil Hard coal
+1494,44W-T-YT-1000069,0,FI,Fossil Hard coal
+1495,44W-T-YT-1000077,0,FI,Fossil Hard coal
+1496,44W-T-YT-100010I,0,FI,Fossil Hard coal
+1497,44W-T-YT-100011G,2,FI,Fossil Peat
+1498,44W-T-YT-100014A,0,FI,Fossil Gas
+1499,44W-T-YT-1000166,0,FI,Fossil Peat
+1500,44W-T-YT-1000174,2,FI,Fossil Hard coal
+1501,44W-T-YT-1000182,0,FI,Fossil Gas
+1502,44W-T-YT-1000190,0,FI,Fossil Gas
+1503,44W-T-YT-100020F,0,FI,Fossil Gas
+1504,44W-T-YT-100021D,2,FI,Fossil Peat
+1505,44W-T-YT-100022B,0,FI,Biomass
+1506,44W-T-YT-1000239,0,FI,Fossil Peat
+1507,44W-T-YT-1000247,0,FI,Fossil Hard coal
+1508,44W-T-YV-1000003,0,FI,Nuclear
+1509,44W-T-YV-1000011,0,FI,Nuclear
+1510,44W-T-YV-100003Y,0,FI,Nuclear
+1511,44W-T-YV-100004W,0,FI,Nuclear
+1512,44W-T-YV-100005U,1,FI,Nuclear
+1513,44W-T-YV-100006S,2,FI,Nuclear
+1514,44W-T-YV-100007Q,3,FI,Nuclear
+1515,45W000000000026O,0,DK,Fossil Oil
+1516,45W000000000027M,0,DK,Fossil Oil
+1517,45W000000000029I,3,DK,Biomass
+1518,45W000000000030X,3,DK,Biomass
+1519,45W000000000031V,2,DK,Biomass
+1520,45W000000000032T,2,DK,Fossil Hard coal
+1521,45W000000000033R,0,DK,Fossil Hard coal
+1522,45W000000000034P,3,DK,Fossil Hard coal
+1523,45W000000000035N,3,DK,Fossil Hard coal
+1524,45W000000000036L,3,DK,Biomass
+1525,45W000000000037J,2,DK,Fossil Hard coal
+1526,45W000000000038H,3,DK,Fossil Hard coal
+1527,45W000000000040U,3,DK,Fossil Hard coal
+1528,45W000000000044M,0,DK,Wind Offshore
+1529,45W000000000045K,0,DK,Wind Offshore
+1530,45W000000000046I,0,DK,Wind Offshore
+1531,45W000000000048E,0,DK,Wind Offshore
+1532,45W000000000113T,2,DK,Biomass
+1533,46WGU0000000001C,1,SE,Fossil Gas
+1534,46WGU0000000002A,0,SE,Hydro Water Reservoir
+1535,46WGU00000000038,0,SE,Hydro Water Reservoir
+1536,46WGU00000000046,0,SE,Hydro Water Reservoir
+1537,46WGU00000000054,2,SE,Fossil Oil
+1538,46WGU00000000062,2,SE,Fossil Hard coal
+1539,46WGU0000000009X,3,SE,Nuclear
+1540,46WGU00000000127,0,SE,Biomass
+1541,46WGU00000000135,0,SE,Fossil Oil
+1542,46WGU0000000018W,0,SE,Fossil Oil
+1543,46WGU0000000019U,0,SE,Fossil Oil
+1544,46WGU00000000208,0,SE,Hydro Water Reservoir
+1545,46WGU00000000216,0,SE,Hydro Water Reservoir
+1546,46WGU00000000224,0,SE,Hydro Water Reservoir
+1547,46WGU00000000232,0,SE,Hydro Water Reservoir
+1548,46WGU00000000240,0,SE,Hydro Water Reservoir
+1549,46WGU0000000025Z,0,SE,Hydro Water Reservoir
+1550,46WGU0000000026X,0,SE,Hydro Water Reservoir
+1551,46WGU0000000027V,0,SE,Hydro Water Reservoir
+1552,46WGU0000000028T,0,SE,Hydro Water Reservoir
+1553,46WGU0000000029R,0,SE,Hydro Water Reservoir
+1554,46WGU00000000305,0,SE,Hydro Water Reservoir
+1555,46WGU00000000313,2,SE,Hydro Water Reservoir
+1556,46WGU00000000321,0,SE,Hydro Water Reservoir
+1557,46WGU0000000034Y,0,SE,Hydro Water Reservoir
+1558,46WGU0000000035W,0,SE,Hydro Water Reservoir
+1559,46WGU0000000036U,0,SE,Hydro Water Reservoir
+1560,46WGU0000000037S,0,SE,Hydro Water Reservoir
+1561,46WGU0000000038Q,0,SE,Hydro Water Reservoir
+1562,46WGU0000000039O,0,SE,Hydro Water Reservoir
+1563,46WGU00000000402,0,SE,Hydro Water Reservoir
+1564,46WGU00000000410,0,SE,Hydro Water Reservoir
+1565,46WGU0000000042Z,0,SE,Hydro Water Reservoir
+1566,46WGU0000000043X,0,SE,Hydro Water Reservoir
+1567,46WGU0000000044V,0,SE,Hydro Water Reservoir
+1568,46WGU0000000045T,0,SE,Hydro Water Reservoir
+1569,46WGU0000000046R,0,SE,Hydro Water Reservoir
+1570,46WGU0000000047P,2,SE,Fossil Peat
+1571,46WGU0000000053U,0,SE,Nuclear
+1572,46WGU0000000137O,2,SE,Nuclear
+1573,46WGU0000000138M,3,SE,Nuclear
+1574,46WGU0000000142V,0,SE,Nuclear
+1575,46WGU0000000143T,0,SE,Nuclear
+1576,46WGU0000000144R,2,SE,Nuclear
+1577,46WGU0000000145P,2,SE,Nuclear
+1578,46WGU0000000146N,0,SE,Nuclear
+1579,46WGU0000000147L,0,SE,Nuclear
+1580,46WGU0000000148J,0,SE,Nuclear
+1581,46WGU0000000149H,2,SE,Nuclear
+1582,46WGU0000000150W,3,SE,Fossil Gas
+1583,46WGU0000000151U,2,SE,Fossil Gas
+1584,46WGU0000000242R,2,SE,Biomass
+1585,47W000000000086D,3,IE,Fossil Peat
+1586,47W0000000000889,3,IE,Fossil Hard coal
+1587,47W0000000000897,3,IE,Fossil Hard coal
+1588,47W000000000090M,3,IE,Fossil Hard coal
+1589,47W000000000092I,3,IE,Fossil Gas
+1590,47W000000000094E,3,IE,Fossil Peat
+1591,47W000000000095C,3,IE,Fossil Gas
+1592,47W000000000096A,3,IE,Fossil Gas
+1593,47W0000000000978,3,IE,Fossil Gas
+1594,47W0000000000986,3,IE,Fossil Gas
+1595,47W0000000000994,0,IE,Fossil Oil
+1596,47W0000000001008,0,IE,Fossil Oil
+1597,47W0000000001024,2,IE,Fossil Gas
+1598,47W0000000001032,1,IE,Fossil Gas
+1599,47W0000000001040,3,IE,Fossil Gas
+1600,47W000000000105Z,3,IE,Fossil Gas
+1601,47W000000000106X,3,IE,Fossil Gas
+1602,47W000000000107V,3,IE,Fossil Gas
+1603,47W000000000108T,3,IE,Fossil Gas
+1604,47W0000000001121,3,IE,Fossil Hard coal
+1605,47W000000000114Y,3,IE,Fossil Hard coal
+1606,47W000000000177A,1,IE,Fossil Gas
+1607,47W0000000001788,1,IE,Fossil Gas
+1608,47W0000000001796,0,IE,Fossil Gas
+1609,47W000000000180L,0,IE,Fossil Gas
+1610,47W000000000181J,0,IE,Fossil Gas
+1611,47W000000000182H,1,IE,Hydro Run-of-river and poundage
+1612,47W000000000183F,0,IE,Hydro Run-of-river and poundage
+1613,47W000000000184D,0,IE,Hydro Run-of-river and poundage
+1614,47W000000000185B,3,IE,Hydro Run-of-river and poundage
+1615,47W0000000001869,0,IE,Hydro Run-of-river and poundage
+1616,47W0000000001877,0,IE,Hydro Run-of-river and poundage
+1617,47W0000000001885,0,IE,Hydro Run-of-river and poundage
+1618,47W0000000001893,0,IE,Hydro Run-of-river and poundage
+1619,47W000000000190I,3,IE,Fossil Peat
+1620,47W000000000191G,0,IE,Hydro Run-of-river and poundage
+1621,47W000000000192E,0,IE,Hydro Run-of-river and poundage
+1622,47W000000000193C,0,IE,Hydro Run-of-river and poundage
+1623,47W000000000194A,0,IE,Hydro Run-of-river and poundage
+1624,47W0000000001958,0,IE,Hydro Run-of-river and poundage
+1625,47W0000000001966,0,IE,Hydro Run-of-river and poundage
+1626,47W0000000001974,0,IE,Hydro Run-of-river and poundage
+1627,47W0000000001982,0,IE,Hydro Pumped Storage
+1628,47W0000000001990,0,IE,Hydro Pumped Storage
+1629,47W0000000002004,0,IE,Hydro Pumped Storage
+1630,47W0000000002012,0,IE,Hydro Pumped Storage
+1631,47W000000000207R,0,IE,Fossil Oil
+1632,47W000000000208P,0,IE,Fossil Oil
+1633,47W000000000212Y,0,IE,Fossil Oil
+1634,47W000000000213W,0,IE,Fossil Oil
+1635,47W000000000214U,0,IE,Fossil Oil
+1636,47W000000000215S,0,IE,Fossil Oil
+1637,47W000000000216Q,0,IE,Fossil Gas
+1638,47W000000000217O,0,IE,Fossil Gas
+1639,47W000000000218M,0,IE,Waste
+1640,47W000000000219K,3,IE,Fossil Oil
+1641,47W000000000220Z,0,IE,Fossil Oil
+1642,47W000000000221X,0,IE,Fossil Oil
+1643,47W000000000222V,0,IE,Fossil Oil
+1644,47W000000000223T,0,IE,Fossil Oil
+1645,47W000000000224R,0,IE,Fossil Oil
+1646,47W000000000225P,0,IE,Fossil Oil
+1647,47W000000000228J,3,IE,Fossil Oil
+1648,47W000000000355C,1,IE,Fossil Gas
+1649,47W000000000356A,3,IE,Fossil Gas
+1650,47W0000000003845,1,IE,Waste
+1651,48W0000000ABTH7Y,3,GB,Fossil Hard coal
+1652,48W0000000ABTH8W,3,GB,Fossil Hard coal
+1653,48W0000000ABTH9U,3,GB,Fossil Hard coal
+1654,48W0000000COWE13,3,GB,Fossil Oil
+1655,48W0000000COWE21,3,GB,Fossil Oil
+1656,48W000000ABTH7G2,1,GB,Fossil Oil
+1657,48W000000ABTH9GX,0,GB,Fossil Oil
+1658,48W000000BAGE-1L,2,GB,Fossil Gas
+1659,48W000000BLLA-1K,0,GB,Wind Onshore
+1660,48W000000BRGG-1M,0,GB,Fossil Gas
+1661,48W000000BRYP-17,0,GB,Fossil Gas
+1662,48W000000CARR-1I,0,GB,Fossil Gas
+1663,48W000000CARR-2G,0,GB,Fossil Gas
+1664,48W000000CDCL-1P,1,GB,Fossil Gas
+1665,48W000000CORB-1Z,3,GB,Fossil Gas
+1666,48W000000COSO-1F,3,GB,Fossil Gas
+1667,48W000000CRUA-16,2,GB,Hydro Pumped Storage
+1668,48W000000CRUA-24,2,GB,Hydro Pumped Storage
+1669,48W000000CRUA-32,0,GB,Hydro Pumped Storage
+1670,48W000000CRUA-40,0,GB,Hydro Pumped Storage
+1671,48W000000DAMC-1M,3,GB,Fossil Gas
+1672,48W000000DEEP-1N,1,GB,Fossil Gas
+1673,48W000000DIDCB5C,3,GB,Fossil Gas
+1674,48W000000DIDCB6A,3,GB,Fossil Gas
+1675,48W000000DINO-1W,0,GB,Hydro Run-of-river and poundage
+1676,48W000000DINO-2U,0,GB,Hydro Run-of-river and poundage
+1677,48W000000DINO-3S,0,GB,Hydro Run-of-river and poundage
+1678,48W000000DINO-4Q,0,GB,Hydro Run-of-river and poundage
+1679,48W000000DINO-5O,0,GB,Hydro Run-of-river and poundage
+1680,48W000000DINO-6M,0,GB,Hydro Run-of-river and poundage
+1681,48W000000DNGB216,1,GB,Nuclear
+1682,48W000000DNGB224,1,GB,Nuclear
+1683,48W000000EAAO-1R,1,GB,Wind Offshore
+1684,48W000000EAAO-2P,1,GB,Wind Offshore
+1685,48W000000EECL-15,3,GB,Fossil Gas
+1686,48W000000FAWN-1P,2,GB,Fossil Gas
+1687,48W000000FELL-1R,3,GB,Fossil Gas
+1688,48W000000FERR-36,3,GB,Fossil Hard coal
+1689,48W000000FERR-44,2,GB,Fossil Hard coal
+1690,48W000000FFES-1S,2,GB,Hydro Run-of-river and poundage
+1691,48W000000FFES-2Q,0,GB,Hydro Run-of-river and poundage
+1692,48W000000FFES-3O,0,GB,Hydro Run-of-river and poundage
+1693,48W000000FFES-4M,2,GB,Hydro Run-of-river and poundage
+1694,48W000000FIDL-16,3,GB,Fossil Hard coal
+1695,48W000000FIDL-24,3,GB,Fossil Hard coal
+1696,48W000000FIDL-32,3,GB,Fossil Hard coal
+1697,48W000000FIDL-40,3,GB,Fossil Hard coal
+1698,48W000000FOYE-14,0,GB,Hydro Run-of-river and poundage
+1699,48W000000FOYE-22,0,GB,Hydro Run-of-river and poundage
+1700,48W000000GRAI-7Y,0,GB,Fossil Gas
+1701,48W000000GRAI-8W,0,GB,Fossil Gas
+1702,48W000000GYAR-15,3,GB,Fossil Gas
+1703,48W000000HEYM11C,1,GB,Nuclear
+1704,48W000000HEYM12A,3,GB,Nuclear
+1705,48W000000HEYM27Y,1,GB,Nuclear
+1706,48W000000HEYM28W,3,GB,Nuclear
+1707,48W000000HINB-77,3,GB,Nuclear
+1708,48W000000HINB-85,1,GB,Nuclear
+1709,48W000000HRTL-16,3,GB,Nuclear
+1710,48W000000HRTL-24,3,GB,Nuclear
+1711,48W000000HUNB-79,1,GB,Nuclear
+1712,48W000000HUNB-87,1,GB,Nuclear
+1713,48W000000INDQ-19,2,GB,Fossil Gas
+1714,48W000000KEAD-15,3,GB,Fossil Gas
+1715,48W000000KEAD-23,0,GB,Fossil Gas
+1716,48W000000LAGA-14,3,GB,Fossil Gas
+1717,48W000000LBAR-1Y,3,GB,Fossil Gas
+1718,48W000000LITTD2U,2,GB,Fossil Oil
+1719,48W000000LOAN-19,3,GB,Fossil Hard coal
+1720,48W000000LOAN-27,3,GB,Fossil Hard coal
+1721,48W000000LOAN-35,3,GB,Fossil Hard coal
+1722,48W000000LOAN-43,3,GB,Fossil Hard coal
+1723,48W000000MARK-1D,3,GB,Other
+1724,48W000000MEDP-12,3,GB,Fossil Gas
+1725,48W000000MRWD-1P,1,GB,Fossil Gas
+1726,48W000000PEHE-15,3,GB,Fossil Gas
+1727,48W000000PETEM1O,1,GB,Fossil Gas
+1728,48W000000RATS-1A,0,GB,Fossil Hard coal
+1729,48W000000RATS-28,3,GB,Fossil Hard coal
+1730,48W000000RATS-36,2,GB,Fossil Hard coal
+1731,48W000000RATS-44,0,GB,Fossil Hard coal
+1732,48W000000ROCK-16,3,GB,Fossil Gas
+1733,48W000000RREW-14,0,GB,Wind Offshore
+1734,48W000000RRWW-1P,0,GB,Wind Offshore
+1735,48W000000SCCL-1U,0,GB,Fossil Gas
+1736,48W000000SCCL-2S,0,GB,Fossil Gas
+1737,48W000000SCCL-3Q,0,GB,Fossil Gas
+1738,48W000000SEAB-1V,3,GB,Fossil Gas
+1739,48W000000SEAB-2T,0,GB,Fossil Gas
+1740,48W000000SEEL-18,2,GB,Fossil Gas
+1741,48W000000SHBA-1C,3,GB,Fossil Gas
+1742,48W000000SHBA-2A,3,GB,Fossil Gas
+1743,48W000000SHOS-1N,3,GB,Fossil Gas
+1744,48W000000SIZB-1U,1,GB,Nuclear
+1745,48W000000SIZB-2S,3,GB,Nuclear
+1746,48W000000SPLN-1A,3,GB,Fossil Gas
+1747,48W000000STAY-1Y,3,GB,Fossil Gas
+1748,48W000000STAY-2W,3,GB,Fossil Gas
+1749,48W000000STAY-3U,3,GB,Fossil Gas
+1750,48W000000STAY-4S,3,GB,Fossil Gas
+1751,48W000000SUTB-1P,3,GB,Fossil Gas
+1752,48W000000TAYL2GY,0,GB,Fossil Gas
+1753,48W000000TAYL3GV,0,GB,Fossil Gas
+1754,48W000000TORN-1G,1,GB,Nuclear
+1755,48W000000TORN-2E,1,GB,Nuclear
+1756,48W000000WYLF-1Y,1,GB,Nuclear
+1757,48W00000ANSUW-1E,0,GB,Wind Onshore
+1758,48W00000BHLAW-15,0,GB,Wind Onshore
+1759,48W00000BRBEO-17,0,GB,Wind Offshore
+1760,48W00000CLDCW-17,0,GB,Wind Onshore
+1761,48W00000CLDNW-1Q,0,GB,Wind Onshore
+1762,48W00000CLDSW-11,2,GB,Wind Onshore
+1763,48W00000CNQPS-1E,3,GB,Fossil Gas
+1764,48W00000CNQPS-2C,2,GB,Fossil Gas
+1765,48W00000CNQPS-3A,1,GB,Fossil Gas
+1766,48W00000CNQPS-48,3,GB,Fossil Gas
+1767,48W00000COTPS-1Q,3,GB,Fossil Hard coal
+1768,48W00000COTPS-2O,3,GB,Fossil Hard coal
+1769,48W00000COTPS-3M,3,GB,Fossil Hard coal
+1770,48W00000COTPS-4K,3,GB,Fossil Hard coal
+1771,48W00000DIDC01G1,3,GB,Fossil Oil
+1772,48W00000DIDC02GZ,3,GB,Fossil Oil
+1773,48W00000DIDC03GW,2,GB,Fossil Oil
+1774,48W00000DIDC04GT,2,GB,Fossil Oil
+1775,48W00000DRAXX-1E,3,GB,Biomass
+1776,48W00000DRAXX-2C,3,GB,Biomass
+1777,48W00000DRAXX-3A,3,GB,Biomass
+1778,48W00000DRAXX-48,3,GB,Biomass
+1779,48W00000DRAXX-56,3,GB,Fossil Hard coal
+1780,48W00000DRAXX-64,3,GB,Fossil Hard coal
+1781,48W00000EGGPS-1X,3,GB,Fossil Hard coal
+1782,48W00000EGGPS-2V,3,GB,Fossil Hard coal
+1783,48W00000EGGPS-3T,3,GB,Fossil Hard coal
+1784,48W00000EGGPS-4R,3,GB,Fossil Hard coal
+1785,48W00000FAARW-13,0,GB,Wind Onshore
+1786,48W00000FAARW-21,0,GB,Wind Onshore
+1787,48W00000FALGW-1T,0,GB,Wind Onshore
+1788,48W00000GLNDO-1G,0,GB,Hydro Run-of-river and poundage
+1789,48W00000GNFSW-1H,0,GB,Wind Offshore
+1790,48W00000GRGBW-1V,0,GB,Wind Offshore
+1791,48W00000GRGBW-2T,0,GB,Wind Offshore
+1792,48W00000GRGBW-3R,0,GB,Wind Offshore
+1793,48W00000HADHW-1J,1,GB,Wind Onshore
+1794,48W00000HMGTO-10,1,GB,Wind Offshore
+1795,48W00000HMGTO-2Z,3,GB,Wind Offshore
+1796,48W00000HOWAO-1M,3,GB,Wind Offshore
+1797,48W00000HOWAO-2K,3,GB,Wind Offshore
+1798,48W00000HOWAO-3I,3,GB,Wind Offshore
+1799,48W00000HRSTW-19,0,GB,Wind Onshore
+1800,48W00000IRNPS-2S,3,GB,Other
+1801,48W00000KILNS-1P,3,GB,Fossil Gas
+1802,48W00000KLGLW-1S,1,GB,Wind Onshore
+1803,48W00000LARYO-1Z,3,GB,Wind Offshore
+1804,48W00000LARYO-2X,3,GB,Wind Offshore
+1805,48W00000LARYO-3V,0,GB,Wind Offshore
+1806,48W00000LARYO-4T,0,GB,Wind Offshore
+1807,48W00000LBAR-1G7,2,GB,Fossil Oil
+1808,48W00000LNCSO-1R,0,GB,Wind Offshore
+1809,48W00000LNCSO-2P,0,GB,Wind Offshore
+1810,48W00000LNMTH-1R,2,GB,Hydro Pumped Storage
+1811,48W00000LNMTH-2P,2,GB,Hydro Pumped Storage
+1812,48W00000LNMTH-3N,2,GB,Hydro Pumped Storage
+1813,48W00000PEMB-11T,3,GB,Fossil Gas
+1814,48W00000PEMB-21Q,3,GB,Fossil Gas
+1815,48W00000PEMB-31N,1,GB,Fossil Gas
+1816,48W00000PEMB-41K,3,GB,Fossil Gas
+1817,48W00000PEMB-51H,3,GB,Fossil Gas
+1818,48W00000RCBKO-1S,0,GB,Wind Offshore
+1819,48W00000RCBKO-2Q,0,GB,Wind Offshore
+1820,48W00000RHYFW-1X,0,GB,Wind Offshore
+1821,48W00000RUGPS-66,3,GB,Fossil Hard coal
+1822,48W00000RUGPS-74,3,GB,Fossil Hard coal
+1823,48W00000RYHPS-1J,3,GB,Fossil Gas
+1824,48W00000STLGW-1E,0,GB,Wind Onshore
+1825,48W00000STLGW-2C,0,GB,Wind Onshore
+1826,48W00000STLGW-3A,0,GB,Wind Onshore
+1827,48W00000SVRP-10A,0,GB,Fossil Gas
+1828,48W00000SVRP-207,0,GB,Fossil Gas
+1829,48W00000USKM-13T,2,GB,Fossil Hard coal
+1830,48W00000USKM-14R,2,GB,Fossil Hard coal
+1831,48W00000WBUPS-1P,3,GB,Fossil Hard coal
+1832,48W00000WBUPS-2N,3,GB,Fossil Hard coal
+1833,48W00000WBUPS-3L,3,GB,Fossil Hard coal
+1834,48W00000WBUPS-4J,3,GB,Fossil Hard coal
+1835,48W00000WBURB-19,3,GB,Fossil Gas
+1836,48W00000WBURB-27,3,GB,Fossil Gas
+1837,48W00000WBURB-35,3,GB,Fossil Gas
+1838,48W00000WDNSO-1H,0,GB,Wind Offshore
+1839,48W00000WDNSO-2F,0,GB,Wind Offshore
+1840,48W00000WDNSW-2K,2,GB,Wind Onshore
+1841,48W00000WHILW-1M,0,GB,Wind Onshore
+1842,48W00000WHILW-2K,1,GB,Wind Onshore
+1843,48W00000WLNYO-23,0,GB,Wind Offshore
+1844,48W00000WLNYO-31,1,GB,Wind Offshore
+1845,48W00000WLNYO-4-,1,GB,Wind Offshore
+1846,48W00000WLNYW-1A,0,GB,Wind Offshore
+1847,48W00000WTMSO-1M,0,GB,Wind Onshore
+1848,48W0000GYMRO-15O,1,GB,Wind Offshore
+1849,48W0000GYMRO-17K,3,GB,Wind Offshore
+1850,48W0000GYMRO-26J,3,GB,Wind Offshore
+1851,48W0000GYMRO-28F,1,GB,Wind Offshore
+1852,48W0000KILLPG-1Q,1,GB,Fossil Gas
+1853,48W0000KILLPG-2O,0,GB,Fossil Gas
+1854,48W0000KLYN-A-1G,3,GB,Fossil Gas
+1855,48W100000ABTH8GN,0,GB,Fossil Oil
+1856,48W100000GRAI-6N,0,GB,Fossil Gas
+1857,48W100000HUMR-1N,3,GB,Fossil Gas
+1858,48W10000ARCHW-1N,0,GB,Wind Onshore
+1859,49W000000000002F,3,NL,Fossil Hard coal
+1860,49W0000000000059,3,NL,Fossil Gas
+1861,49W0000000000075,3,NL,Fossil Hard coal
+1862,49W0000000000083,3,NL,Fossil Hard coal
+1863,49W000000000013A,1,NL,Fossil Gas
+1864,49W0000000000148,2,NL,Fossil Gas
+1865,49W0000000000156,1,NL,Fossil Gas
+1866,49W0000000000164,2,NL,Fossil Gas
+1867,49W0000000000172,0,NL,Fossil Gas
+1868,49W0000000000180,1,NL,Fossil Gas
+1869,49W000000000019Z,1,NL,Fossil Gas
+1870,49W000000000020D,3,NL,Fossil Gas
+1871,49W000000000021B,2,NL,Other
+1872,49W0000000000229,1,NL,Fossil Gas
+1873,49W0000000000237,1,NL,Fossil Gas
+1874,49W0000000000245,2,NL,Fossil Gas
+1875,49W0000000000261,0,NL,Fossil Gas
+1876,49W000000000030A,3,NL,Fossil Hard coal
+1877,49W0000000000318,3,NL,Fossil Hard coal
+1878,49W0000000000326,3,NL,Fossil Hard coal
+1879,49W0000000000342,0,NL,Fossil Gas
+1880,49W000000000037X,2,NL,Fossil Gas
+1881,49W000000000038V,3,NL,Fossil Hard coal
+1882,49W000000000039T,0,NL,Fossil Gas
+1883,49W0000000000415,0,NL,Fossil Gas
+1884,49W0000000000423,0,NL,Fossil Gas
+1885,49W000000000049Q,1,NL,Fossil Gas
+1886,49W000000000053Z,0,NL,Fossil Hard coal
+1887,49W000000000055V,0,NL,Nuclear
+1888,49W000000000059N,0,NL,Fossil Gas
+1889,49W000000000073T,3,NL,Fossil Gas
+1890,49W000000000075P,3,NL,Fossil Gas
+1891,49W000000000077L,0,NL,Fossil Hard coal
+1892,49W000000000079H,3,NL,Fossil Hard coal
+1893,49W000000000081U,2,NL,Fossil Gas
+1894,49W000000000083Q,2,NL,Fossil Gas
+1895,49W000000000085M,1,NL,Fossil Gas
+1896,49W000000000087I,0,NL,Fossil Gas
+1897,49W000000000089E,0,NL,Fossil Gas
+1898,49W000000000093N,0,NL,Fossil Gas
+1899,49W000000000095J,0,NL,Fossil Gas
+1900,49W000000000097F,1,NL,Fossil Gas
+1901,49W000000000109Y,2,NL,Fossil Gas
+1902,49W0000000001136,3,NL,Fossil Gas
+1903,49W0000000001144,0,NL,Fossil Gas
+1904,49W0000000001152,1,NL,Fossil Gas
+1905,49W0000000001209,0,NL,Fossil Gas
+1906,49W0000000001241,0,NL,Fossil Gas
+1907,49W000000000136V,1,NL,Fossil Gas
+1908,49W000000000153V,2,NL,Fossil Gas
+1909,50WG00000000015S,0,NO,Hydro Water Reservoir
+1910,50WG00000000066B,0,NO,Hydro Water Reservoir
+1911,50WG000000000695,0,NO,Hydro Water Reservoir
+1912,50WG00000000070K,2,NO,Hydro Water Reservoir
+1913,50WG00000000074C,2,NO,Hydro Pumped Storage
+1914,50WG00000000075A,0,NO,Hydro Pumped Storage
+1915,50WG00000000132O,0,NO,Hydro Water Reservoir
+1916,50WG000000001748,0,NO,Hydro Water Reservoir
+1917,50WG000000001756,0,NO,Hydro Water Reservoir
+1918,50WG00000000218E,0,NO,Hydro Water Reservoir
+1919,50WG00000000252E,0,NO,Hydro Water Reservoir
+1920,50WG00000000286Y,2,NO,Hydro Pumped Storage
+1921,50WG00000000341F,0,NO,Hydro Water Reservoir
+1922,50WG00000000342D,0,NO,Hydro Water Reservoir
+1923,50WG000000003473,2,NO,Hydro Water Reservoir
+1924,50WG000000003643,0,NO,Fossil Gas
+1925,50WG00000000565U,0,NO,Hydro Water Reservoir
+1926,50WG00000000689C,0,NO,Hydro Water Reservoir
+1927,50WG00000000690R,0,NO,Hydro Water Reservoir
+1928,50WG00000000691P,0,NO,Hydro Water Reservoir
+1929,50WG00000000781O,0,NO,Hydro Water Reservoir
+1930,50WG00000000851T,0,NO,Hydro Water Reservoir
+1931,50WG00000000852R,0,NO,Hydro Water Reservoir
+1932,50WG000000009013,0,NO,Hydro Water Reservoir
+1933,50WG000000009021,0,NO,Hydro Water Reservoir
+1934,50WG00000000904Y,2,NO,Hydro Water Reservoir
+1935,50WG00000000906U,2,NO,Hydro Water Reservoir
+1936,50WG00000000952N,0,NO,Hydro Water Reservoir
+1937,50WG00000001029C,0,NO,Hydro Water Reservoir
+1938,50WG00000001037D,0,NO,Hydro Water Reservoir
+1939,50WG000000010852,0,NO,Hydro Water Reservoir
+1940,50WG00000001100W,0,NO,Hydro Water Reservoir
+1941,50WG00000001145A,0,NO,Hydro Water Reservoir
+1942,50WG00000001234B,0,NO,Hydro Water Reservoir
+1943,50WG00000001302K,0,NO,Hydro Water Reservoir
+1944,50WG00000001305E,2,NO,Hydro Water Reservoir
+1945,50WG00000001307A,0,NO,Hydro Water Reservoir
+1946,50WG000000013096,0,NO,Hydro Water Reservoir
+1947,50WG00000001330F,0,NO,Hydro Water Reservoir
+1948,50WG00000001439U,3,NO,Hydro Pumped Storage
+1949,50WG00000001458Q,3,NO,Hydro Pumped Storage
+1950,50WG00000001463X,0,NO,Hydro Water Reservoir
+1951,50WG00000001474S,0,NO,Hydro Water Reservoir
+1952,50WG00000001475Q,0,NO,Hydro Water Reservoir
+1953,50WG00000001476O,3,NO,Hydro Water Reservoir
+1954,50WG00000001477M,0,NO,Hydro Water Reservoir
+1955,50WG00000001479I,0,NO,Hydro Water Reservoir
+1956,50WG00000001502C,0,NO,Hydro Water Reservoir
+1957,50WG00000001503A,0,NO,Hydro Water Reservoir
+1958,50WG000000015048,0,NO,Hydro Water Reservoir
+1959,50WG000000015056,0,NO,Hydro Water Reservoir
+1960,50WG00000001555S,0,NO,Hydro Water Reservoir
+1961,50WG00000001556Q,0,NO,Hydro Water Reservoir
+1962,50WG00000001557O,0,NO,Hydro Water Reservoir
+1963,50WG00000001755K,0,NO,Hydro Water Reservoir
+1964,50WG00000001791G,0,NO,Hydro Water Reservoir
+1965,50WG00000001792E,0,NO,Hydro Water Reservoir
+1966,50WG00000001830W,0,NO,Hydro Water Reservoir
+1967,50WG00000001832S,0,NO,Hydro Water Reservoir
+1968,50WG000000018881,0,NO,Hydro Water Reservoir
+1969,50WG000000018946,2,NO,Hydro Water Reservoir
+1970,50WG000000018954,0,NO,Hydro Water Reservoir
+1971,50WG000000018962,2,NO,Hydro Water Reservoir
+1972,50WG000000018970,2,NO,Hydro Water Reservoir
+1973,50WG000000019000,1,NO,Hydro Water Reservoir
+1974,50WG00000001901Z,0,NO,Hydro Water Reservoir
+1975,50WG00000001902X,0,NO,Hydro Water Reservoir
+1976,50WG00000001903V,3,NO,Hydro Water Reservoir
+1977,50WG00000001904T,2,NO,Hydro Water Reservoir
+1978,50WG00000001921T,0,NO,Hydro Water Reservoir
+1979,50WG00000001971E,0,NO,Hydro Water Reservoir
+1980,50WG00000001972C,0,NO,Hydro Water Reservoir
+1981,50WG000000019772,0,NO,Hydro Water Reservoir
+1982,50WG000000019780,2,NO,Hydro Water Reservoir
+1983,50WG000000019926,0,NO,Hydro Water Reservoir
+1984,50WG00000001997X,0,NO,Hydro Water Reservoir
+1985,50WG00000002015I,0,NO,Hydro Run-of-river and poundage
+1986,50WG000000020386,0,NO,Hydro Water Reservoir
+1987,50WG000000020394,0,NO,Hydro Water Reservoir
+1988,50WG000000020718,3,NO,Hydro Water Reservoir
+1989,50WG000000020726,0,NO,Hydro Water Reservoir
+1990,50WG000000020734,0,NO,Hydro Water Reservoir
+1991,50WG000000022168,0,NO,Hydro Water Reservoir
+1992,50WG000000023261,0,NO,Hydro Run-of-river and poundage
+1993,50WG00000002639H,0,NO,Hydro Water Reservoir
+1994,50WG00000002640W,0,NO,Hydro Water Reservoir
+1995,50WGI00000002855,2,NO,Hydro Pumped Storage
+1996,50WGI00000014365,2,NO,Hydro Water Reservoir
+1997,54W-FIERZ-G1002P,3,AL,Hydro Water Reservoir
+1998,54W-FIERZ-G2003I,1,AL,Hydro Water Reservoir
+1999,54W-FIERZ-G3004B,3,AL,Hydro Water Reservoir
+2000,54W-FIERZ-G40054,3,AL,Hydro Water Reservoir
+2001,54W-KOMAN-G1007L,1,AL,Hydro Water Reservoir
+2002,54W-KOMAN-G2008E,1,AL,Hydro Water Reservoir
+2003,54W-KOMAN-G30097,1,AL,Hydro Water Reservoir
+2004,54W-KOMAN-G4010H,1,AL,Hydro Water Reservoir
+2005,54W-T-KSA1110G15,0,XK,Fossil Brown coal/Lignite
+2006,54W-T-KSA1110G23,0,XK,Fossil Brown coal/Lignite
+2007,54W-T-KSA1110G31,0,XK,Fossil Brown coal/Lignite
+2008,54W-T-KSB1110G1Y,0,XK,Fossil Brown coal/Lignite
+2009,54W-T-KSB1110G2W,0,XK,Fossil Brown coal/Lignite
+2010,54W-VADEJ-G1012P,1,AL,Hydro Water Reservoir
+2011,54W-VADEJ-G2013I,1,AL,Hydro Water Reservoir
+2012,54W-VADEJ-G3014B,1,AL,Hydro Water Reservoir
+2013,54W-VADEJ-G40154,1,AL,Hydro Water Reservoir
+2014,54W-VADEJ-G5016Y,1,AL,Hydro Water Reservoir
+2015,62W769643206871I,0,UA,Nuclear
+2016,62W875573499771F,0,UA,Nuclear
+2017,65WENGURHESIUNTI,0,GE,Hydro Water Reservoir
+2018,65WENGURIUNIT01K,0,GE,Hydro Water Reservoir
+2019,65WENGURIUNIT02I,0,GE,Hydro Water Reservoir
+2020,65WENGURIUNIT03G,0,GE,Hydro Water Reservoir
+2021,65WENGURIUNIT05C,0,GE,Hydro Water Reservoir
+2022,65WTBILSRESI1-WH,0,GE,Fossil Gas

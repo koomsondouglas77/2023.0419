@@ -1,17 +1,3 @@
-Data and constraint sets for clustering with hard and soft must-link and cannot-link constraints. 
-
-## Usage
-
-Some data and constraint sets are very large and cannot be stored in this repository. To download/generate these data sets and constraint sets, run the following commands with the project folder as the working directory:
-
-```bash
-python get_data.py 
-```
-
-Note that if you already downloaded the raw data sets, you must set the flag data_not_yet_downloaded to False in the get_data.py file.
-
-The folder processed data will contain all the data sets and constraint sets used in the paper. 
-
 ## Data sets: description of format 
 
 The data sets are stored as .csv files, with the first row containing the names of the columns and the remaining rows representing the data points.

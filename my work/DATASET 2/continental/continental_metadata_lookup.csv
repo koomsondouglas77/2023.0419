@@ -1,0 +1,479 @@
+pccc_index,grid_level_origin,class_label,_ens,_dns,_dur,_country_count,country_of_origin,main_cause,year
+0,,1,0.0,0.0,24.0,1,Poland,Weather related,2022
+1,,0,0.0,0.0,0.0,1,United Kingdom,Weather related,2021
+2,,0,0.0,0.0,0.0,1,Bosnia and Herzegovina,Weather related,2021
+3,,1,0.0,0.0,12.0,1,France,Weather related,2021
+4,,1,0.0,0.0,18.0,1,Czech Republic,Weather related,2021
+5,Transmission grid,0,0.0,0.0,0.0001,1,Italy,Human unintentional,2021
+6,,0,0.0,0.0,0.0,1,Bulgaria,Weather related,2021
+7,Distribution grid,1,0.0,0.0,17.0,1,Germany,Accident,2021
+8,Transmission grid,0,0.0,0.0,0.617,1,France,Weather related,2021
+9,,1,0.0,0.0,96.0,1,Poland,Weather related,2021
+10,Transmission grid,0,0.0,0.0,0.917,1,France,Human error,2021
+11,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Equipment failure,2021
+12,,1,0.0,0.0,18.0,1,Czech Republic,Weather related,2021
+13,Transmission grid,0,0.0,0.0,0.0,1,Czech Republic,Weather related,2021
+14,Transmission grid,0,0.0,0.0,0.0,1,Czech Republic,Weather related,2021
+15,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Equipment failure,2021
+16,Transmission grid,0,0.0,0.0,0.5,1,Netherlands,Equipment failure,2021
+17,Distribution grid,0,0.0,0.0,0.5,1,Germany,Equipment failure,2021
+18,Distribution grid,0,0.0,0.0,1.3,1,Germany,Human unintentional,2021
+19,Distribution grid,0,0.0,0.0,0.0,1,Germany,Human unintentional,2021
+20,Transmission grid,0,0.0,0.0,1.0,1,Netherlands,Equipment failure,2021
+21,Transmission grid,0,0.0,0.0,0.75,1,Denmark,Equipment failure,2021
+22,Transmission grid,0,0.0,0.0,0.25,1,France,Equipment failure,2021
+23,Distribution grid,1,0.0,0.0,26.0,1,Germany,Accident,2021
+24,Transmission grid,2,553.113,3322.0,0.333,1,Poland,Equipment failure,2021
+25,Distribution grid,0,0.0,0.0,1.333,1,Switzerland,Equipment failure,2021
+26,Distribution grid,0,0.0,0.0,1.333,1,Switzerland,Equipment failure,2021
+27,,0,0.0,0.0,1.0,1,Albania,Accident,2021
+28,Distribution grid,0,0.0,0.0,0.0833,1,Germany,Equipment failure,2021
+29,Transmission grid,0,0.0,0.0,1.25,1,France,Equipment failure,2021
+30,,1,0.0,0.0,2.0,1,Finland,Equipment failure,2021
+31,Transmission grid,1,0.0,0.0,24.0,1,Greece,Weather related,2021
+32,Transmission grid,0,0.0,0.0,0.75,1,United Kingdom,Equipment failure,2021
+33,Transmission grid,2,0.0,1008.0,0.0,1,Bulgaria,Grid instability,2021
+34,Transmission grid,0,0.0,0.0,0.433,1,Romania,Equipment failure,2021
+35,Transmission grid,0,0.0,0.0,1.05,1,Croatia,Grid instability,2021
+36,Distribution grid,0,0.0,0.0,0.0,1,Germany,Weather related,2020
+37,Distribution grid,1,0.0,0.0,12.0,1,France,Weather related,2020
+38,Distribution grid,1,0.0,0.0,12.0,1,Czech Republic,Weather related,2020
+39,Transmission grid,0,0.0,0.0,0.183,1,Romania,Equipment failure,2020
+40,Transmission grid,0,0.0,0.0,0.0833,1,Italy,Equipment failure,2020
+41,Transmission grid,1,0.0,0.0,1.667,1,France,Equipment failure,2020
+42,Transmission grid,1,0.0,0.0,2.25,1,Belgium,Human error,2020
+43,Transmission grid,0,0.0,0.0,0.0167,1,Norway,Equipment failure,2020
+44,Transmission grid,1,0.0,0.0,1.67,1,France,Equipment failure,2020
+45,Distribution grid,0,0.0,0.0,0.583,1,Germany,Human intentional,2020
+46,Transmission grid,0,0.0,0.0,1.0,1,Romania,Human error,2020
+47,Transmission grid,0,0.0,0.0,1.0,1,Switzerland,Human error,2020
+48,Transmission grid,1,0.0,0.0,2.0,1,Spain,Grid instability,2020
+49,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Equipment failure,2020
+50,Distribution grid,1,0.0,0.0,1.583,1,Germany,Accident,2020
+51,Transmission grid,0,0.0,0.0,0.0,1,Switzerland,Equipment failure,2020
+52,Transmission grid,0,0.0,0.0,0.167,1,France,Equipment failure,2020
+53,Transmission grid,2,0.0,7000.0,0.0,1,Poland,Grid instability,2020
+54,Transmission grid,0,0.0,0.0,0.0,1,Italy,Human unintentional,2020
+55,Transmission grid,1,0.0,0.0,1.5,1,Czech Republic,Equipment failure,2020
+56,Transmission grid,0,0.0,0.0,0.267,1,Austria,Equipment failure,2020
+57,Distribution grid,0,0.0,0.0,1.133,1,Germany,Accident,2020
+58,Transmission grid,0,0.0,0.0,1.0,1,Netherlands,Equipment failure,2020
+59,Distribution grid,1,0.0,0.0,10.0,1,Czech Republic,Weather related,2019
+60,Transmission grid,0,0.0,0.0,0.033,1,Netherlands,Equipment failure,2020
+61,Distribution grid,1,0.0,0.0,5.333,1,Germany,Weather related,2020
+62,Transmission grid,1,0.0,0.0,1.5,1,France,Equipment failure,2020
+63,Transmission grid,0,0.0,0.0,1.0,1,France,Human intentional,2020
+64,Transmission grid,1,0.0,0.0,1.5,1,Italy,Weather related,2020
+65,Transmission grid,0,0.0,0.0,1.0,1,Switzerland,Weather related,2020
+66,Distribution grid,0,0.0,0.0,0.0,1,Poland,Weather related,2020
+67,Transmission grid,1,0.0,0.0,35.0,1,France,Weather related,2020
+68,Distribution grid,1,0.0,0.0,34.0,1,Czech Republic,Weather related,2020
+69,Distribution grid,1,0.0,0.0,48.0,1,Germany,Weather related,2020
+70,Transmission grid,0,0.0,0.0,0.167,1,France,Human intentional,2020
+71,,1,0.0,0.0,24.0,1,Poland,Weather related,2020
+72,Transmission grid,1,0.0,0.0,1.5,1,Belgium,Equipment failure,2020
+73,Transmission grid,0,0.0,0.0,0.833,1,France,Human intentional,2020
+74,Transmission grid,1,0.0,0.0,1.667,1,France,Human intentional,2020
+75,Transmission grid,0,0.0,0.0,0.25,1,France,Human intentional,2020
+76,Transmission grid,0,0.0,0.0,0.5,1,France,Human intentional,2020
+77,Transmission grid,1,0.0,0.0,7.0,1,France,Weather related,2020
+78,Transmission grid,1,0.0,0.0,2.767,1,Spain,Weather related,2020
+79,Transmission grid,1,0.0,0.0,4.0,1,France,Human intentional,2020
+80,Transmission grid,0,0.0,0.0,0.583,1,France,Human intentional,2020
+81,Transmission grid,1,0.0,0.0,1.5,1,France,Human intentional,2020
+82,Distribution grid,0,0.0,0.0,0.05,1,Germany,Human unintentional,2020
+83,Transmission grid,0,0.0,0.0,1.2,1,Netherlands,Equipment failure,2019
+84,Transmission grid,1,0.0,0.0,30.0,1,France,Weather related,2019
+85,Transmission grid,1,0.0,0.0,9.0,1,France,Weather related,2019
+86,Transmission grid,0,0.0,0.0,1.25,1,France,Human intentional,2019
+87,Transmission grid,1,0.0,0.0,1.5,1,France,Human intentional,2019
+88,Transmission grid,0,0.0,0.0,0.817,1,France,Human intentional,2019
+89,Transmission grid,0,0.0,0.0,1.333,1,France,Human intentional,2019
+90,Transmission grid,0,0.0,0.0,1.25,1,France,Human intentional,2019
+91,Transmission grid,0,0.0,0.0,0.0,1,Italy,Weather related,2019
+92,Transmission grid,1,0.0,0.0,2.083,1,France,Human intentional,2019
+93,Transmission grid,0,0.0,0.0,0.167,1,France,,2019
+94,Transmission grid,1,0.0,0.0,3.5,1,Malta,Equipment failure,2019
+95,Distribution grid,1,0.0,0.0,3.45,1,Switzerland,Equipment failure,2019
+96,Transmission grid,1,0.0,0.0,96.0,1,France,Weather related,2019
+97,Transmission grid,1,0.0,0.0,2.0,1,Slovenia,Equipment failure,2019
+98,Transmission grid,1,0.0,0.0,45.0,1,France,Weather related,2019
+99,Transmission grid,0,0.0,0.0,0.517,1,Netherlands,Equipment failure,2019
+100,Transmission grid,0,0.0,0.0,0.75,1,Belgium,Human unintentional,2019
+101,Transmission grid,0,112.5,900.0,0.25,1,France,Grid instability,2019
+102,Transmission grid,0,0.0,0.0,0.0,1,Spain,Equipment failure,2019
+103,Transmission grid,0,0.0,0.0,0.125,1,Netherlands,Equipment failure,2019
+104,Transmission grid,0,0.0,0.0,0.667,1,Netherlands,Equipment failure,2019
+105,Transmission grid,0,0.0,0.0,0.067,1,Netherlands,Equipment failure,2019
+106,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Equipment failure,2019
+107,Transmission grid,0,0.0,0.0,0.25,1,United Kingdom,Weather related,2019
+108,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Equipment failure,2019
+109,Transmission grid,1,0.0,0.0,1.5,1,France,Weather related,2019
+110,Distribution grid,1,0.0,0.0,1.5,1,Germany,Equipment failure,2019
+111,Transmission grid,2,0.0,6000.0,0.0,1,Germany,Grid instability,2019
+112,Distribution grid,1,0.0,0.0,11.0,1,Czech Republic,Weather related,2019
+113,Transmission grid,2,0.0,10000.0,0.0,1,Germany,Grid instability,2019
+114,Distribution grid,1,0.0,0.0,3.5,1,Germany,Equipment failure,2019
+115,Transmission grid,2,0.0,6000.0,0.0,1,Germany,Grid instability,2019
+116,Distribution grid,0,0.0,0.0,0.0,1,Switzerland,Weather related,2019
+117,Transmission grid,0,0.0,0.0,0.0139,1,Netherlands,Equipment failure,2019
+118,Transmission grid,0,0.0,0.0,0.75,1,Italy,Grid instability,2019
+119,Transmission grid,0,0.0,0.0,0.0,1,Switzerland,Grid instability,2019
+120,Transmission grid,1,0.0,0.0,3.47,1,Luxembourg,Accident,2019
+121,Distribution grid,0,0.0,0.0,0.0,1,Germany,Accident,2019
+122,Distribution grid,0,0.0,0.0,0.333,1,Germany,Human error,2019
+123,Transmission grid,0,0.0,0.0,1.0,1,Italy,Human unintentional,2019
+124,Distribution grid,1,0.0,0.0,3.0,1,United Kingdom,Equipment failure,2019
+125,Transmission grid,0,0.0,0.0,0.033,1,Netherlands,Equipment failure,2019
+126,Transmission grid,0,0.0,0.0,0.5,1,Netherlands,Equipment failure,2019
+127,Distribution grid,1,0.0,0.0,9.0,1,Czech Republic,Weather related,2019
+128,Distribution grid,1,0.0,0.0,31.0,1,Germany,Human unintentional,2019
+129,Transmission grid,0,0.0,0.0,0.5,1,Sweden,Grid instability,2019
+130,Transmission grid,0,0.0,0.0,0.367,1,Netherlands,Equipment failure,2019
+131,Transmission grid,1,0.0,0.0,1.5,1,Netherlands,Human error,2019
+132,Transmission grid,0,0.0,0.0,0.025,1,Netherlands,Equipment failure,2019
+133,Transmission grid,1,0.0,0.0,44.2,1,Germany,Equipment failure,2019
+134,Distribution grid,0,0.0,0.0,0.0,1,Germany,Weather related,2019
+135,Distribution grid,1,0.0,0.0,48.0,1,Sweden,Weather related,2019
+136,Transmission grid,0,0.0,0.0,0.75,1,Netherlands,Equipment failure,2018
+137,Transmission grid,0,0.0,0.0,1.0,1,France,Equipment failure,2018
+138,Transmission grid,0,0.0,0.0,1.0,1,Netherlands,Equipment failure,2018
+139,Transmission grid,1,0.0,0.0,48.0,1,Italy,Weather related,2018
+140,Transmission grid,1,0.0,0.0,48.0,1,Italy,Weather related,2018
+141,Transmission grid,1,0.0,0.0,2.0,1,Netherlands,Equipment failure,2018
+142,Distribution grid,0,0.0,0.0,0.667,1,Germany,Human unintentional,2018
+143,Transmission grid,0,0.0,0.0,0.333,1,Netherlands,Equipment failure,2018
+144,Distribution grid,0,0.0,0.0,0.2,1,Sweden,Equipment failure,2018
+145,Distribution grid,1,0.0,0.0,15.5,1,Czech Republic,Weather related,2018
+146,Transmission grid,1,0.0,0.0,29.0,1,Poland,Weather related,2018
+147,Distribution grid,0,0.0,0.0,0.167,1,Germany,Grid instability,2018
+148,Distribution grid,1,0.0,0.0,24.0,1,Greece,Equipment failure,2018
+149,Transmission grid,0,0.0,0.0,0.95,1,Netherlands,Equipment failure,2018
+150,Distribution grid,0,0.0,0.0,0.0,1,Greece,Weather related,2018
+151,Transmission grid,0,0.0,0.0,0.15,1,Netherlands,Equipment failure,2018
+152,Transmission grid,0,0.0,0.0,0.033,1,Netherlands,Equipment failure,2018
+153,Transmission grid,1,0.0,0.0,2.067,1,Netherlands,Weather related,2018
+154,Transmission grid,0,0.0,0.0,1.0,1,Switzerland,Human error,2018
+155,Transmission grid,1,0.0,0.0,48.0,1,France,Weather related,2018
+156,Transmission grid,0,0.0,0.0,0.167,1,Netherlands,Equipment failure,2018
+157,Transmission grid,0,0.0,0.0,0.25,1,Netherlands,Equipment failure,2018
+158,Distribution grid,0,0.0,0.0,1.167,1,Sweden,Equipment failure,2018
+159,Transmission grid,0,0.0,0.0,0.05,1,Netherlands,Equipment failure,2018
+160,Transmission grid,0,0.0,0.0,0.2,1,Netherlands,Weather related,2018
+161,Distribution grid,1,0.0,0.0,4.0,1,Germany,Human error,2018
+162,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Equipment failure,2018
+163,Transmission grid,0,0.0,0.0,0.0167,1,Netherlands,Equipment failure,2018
+164,Transmission grid,1,0.0,0.0,9.25,1,Netherlands,Grid instability,2018
+165,Transmission grid,0,0.0,0.0,0.333,1,Netherlands,Equipment failure,2018
+166,Transmission grid,0,0.0,0.0,0.0667,1,Netherlands,Equipment failure,2018
+167,Distribution grid,1,0.0,0.0,17.0,1,Germany,Accident,2018
+168,Distribution grid,1,0.0,0.0,7.333,1,Germany,Human intentional,2018
+169,Transmission grid,0,0.0,0.0,0.5,1,Netherlands,Equipment failure,2018
+170,Distribution grid,1,0.0,0.0,9.5,1,Netherlands,Human unintentional,2018
+171,Transmission grid,1,0.0,0.0,4.0,1,Netherlands,Equipment failure,2018
+172,Transmission grid,1,0.0,0.0,1.833,1,Netherlands,Equipment failure,2018
+173,Transmission grid,0,0.0,0.0,0.75,1,Netherlands,Equipment failure,2018
+174,Distribution grid,1,0.0,0.0,2.333,1,Switzerland,Equipment failure,2018
+175,Transmission grid,0,0.0,0.0,0.0001,1,Netherlands,Equipment failure,2018
+176,Transmission grid,1,0.0,0.0,3.167,1,France,Equipment failure,2018
+177,Transmission grid,0,0.0,0.0,0.25,1,Belgium,Weather related,2018
+178,Transmission grid,0,0.0,0.0,0.05,1,Netherlands,Equipment failure,2018
+179,Distribution grid,1,0.0,0.0,24.0,1,Germany,Weather related,2018
+180,,1,0.0,0.0,5.5,1,France,Weather related,2018
+181,,1,0.0,0.0,24.0,1,Poland,Weather related,2017
+182,Distribution grid,0,0.0,0.0,0.733,1,Germany,Weather related,2017
+183,Transmission grid,1,0.0,0.0,48.0,1,France,Weather related,2017
+184,Transmission grid,0,0.0,0.0,0.67,1,Netherlands,Equipment failure,2017
+185,Transmission grid,0,0.0,0.0,0.0167,1,Netherlands,Equipment failure,2017
+186,Transmission grid,0,0.0,0.0,0.75,1,Netherlands,Equipment failure,2017
+187,Transmission grid,1,0.0,0.0,12.0,1,Poland,Weather related,2017
+188,Distribution grid,0,0.0,0.0,0.333,1,Germany,Equipment failure,2017
+189,Transmission grid,1,0.0,0.0,1.5,1,Sweden,Human error,2017
+190,Transmission grid,0,0.0,0.0,1.0,1,Romania,Equipment failure,2017
+191,Transmission grid,1,0.0,0.0,24.0,1,Czech Republic,Weather related,2017
+192,Transmission grid,0,0.0,0.0,0.2,1,Denmark,Equipment failure,2017
+193,Distribution grid,0,0.0,0.0,0.5,1,Denmark,Equipment failure,2017
+194,Distribution grid,1,0.0,0.0,2.0,1,Germany,Weather related,2017
+195,Transmission grid,0,0.0,0.0,0.0167,1,Netherlands,Accident,2017
+196,Distribution grid,0,0.0,0.0,0.667,1,Luxembourg,Equipment failure,2017
+197,Distribution grid,0,0.0,0.0,0.0001,1,Switzerland,Equipment failure,2017
+198,Distribution grid,0,0.0,0.0,0.333,1,Switzerland,Equipment failure,2017
+199,Distribution grid,0,0.0,0.0,1.4,1,Germany,Human unintentional,2017
+200,Distribution grid,0,0.0,0.0,0.35,1,Germany,Weather related,2017
+201,Distribution grid,0,0.0,0.0,0.0,1,Germany,Accident,2017
+202,Transmission grid,0,0.0,0.0,0.083,1,Netherlands,Equipment failure,2017
+203,Distribution grid,0,0.0,0.0,0.583,1,Germany,Human unintentional,2017
+204,Transmission grid,0,0.0,0.0,0.05,1,Netherlands,Equipment failure,2017
+205,Transmission grid,1,0.0,0.0,48.0,1,Poland,Weather related,2017
+206,Transmission grid,0,0.0,0.0,0.05,1,Netherlands,Equipment failure,2017
+207,Transmission grid,0,0.0,0.0,0.083,1,Netherlands,Equipment failure,2017
+208,Distribution grid,0,0.0,0.0,0.0,1,Switzerland,Equipment failure,2017
+209,Transmission grid,1,0.0,0.0,24.0,1,France,Weather related,2017
+210,Transmission grid,0,0.0,0.0,0.000278,1,Netherlands,Equipment failure,2017
+211,Transmission grid,0,0.0,0.0,0.583,1,Czech Republic,Equipment failure,2017
+212,Transmission grid,0,0.0,0.0,0.667,1,Czech Republic,Equipment failure,2017
+213,Transmission grid,0,0.0,0.0,0.083,1,Netherlands,Grid instability,2017
+214,Transmission grid,0,0.0,0.0,1.333,1,Belgium,Equipment failure,2017
+215,Distribution grid,0,0.0,0.0,0.417,1,Romania,Equipment failure,2017
+216,Transmission grid,1,0.0,0.0,48.0,1,France,Weather related,2017
+217,Distribution grid,0,0.0,0.0,1.0,1,Germany,Accident,2017
+218,Distribution grid,0,0.0,0.0,0.0,1,Germany,Human unintentional,2017
+219,Transmission grid,1,0.0,0.0,3.0,1,Croatia,Weather related,2017
+220,Transmission grid,1,0.0,0.0,72.0,1,Italy,Weather related,2017
+221,Transmission grid,1,0.0,0.0,3.683,1,Netherlands,Equipment failure,2017
+222,Transmission grid,0,0.0,0.0,0.0,1,Italy,Equipment failure,2017
+223,Transmission grid,1,0.0,0.0,12.0,1,Italy,Weather related,2017
+224,Distribution grid,1,0.0,0.0,1.5,1,Austria,Equipment failure,2017
+225,Transmission grid,0,0.0,0.0,0.0,1,Bulgaria,Weather related,2017
+226,Distribution grid,0,0.0,0.0,0.0,1,Germany,Human unintentional,2017
+227,Transmission grid,0,0.0,0.0,0.0,1,Bulgaria,Weather related,2017
+228,Transmission grid,0,0.0,0.0,0.0667,1,Netherlands,Equipment failure,2016
+229,Distribution grid,0,0.0,0.0,0.0,1,Germany,Equipment failure,2016
+230,Transmission grid,0,0.0,0.0,0.167,1,Netherlands,Equipment failure,2016
+231,Distribution grid,0,0.0,0.0,0.0,1,Germany,Equipment failure,2016
+232,Distribution grid,1,0.0,0.0,12.25,1,Germany,Equipment failure,2016
+233,Distribution grid,1,0.0,0.0,1.517,1,France,Human unintentional,2016
+234,Transmission grid,0,0.0,0.0,0.667,1,Netherlands,Equipment failure,2016
+235,Distribution grid,1,0.0,0.0,2.0,1,Romania,Equipment failure,2016
+236,Distribution grid,0,0.0,0.0,0.0,1,Germany,Human error,2016
+237,Distribution grid,0,0.0,0.0,1.0,1,Germany,Human unintentional,2016
+238,Transmission grid,0,0.0,0.0,0.34,1,Switzerland,Equipment failure,2016
+239,Distribution grid,0,0.0,0.0,0.15,1,Germany,Human error,2016
+240,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Accident,2016
+241,Transmission grid,0,0.0,0.0,0.05,1,Netherlands,Equipment failure,2016
+242,Transmission grid,0,0.0,0.0,0.25,1,Netherlands,Equipment failure,2016
+243,Distribution grid,0,0.0,0.0,0.000278,1,Switzerland,Equipment failure,2016
+244,Transmission grid,0,0.0,0.0,0.0167,1,Netherlands,Equipment failure,2016
+245,Distribution grid,0,0.0,0.0,0.0,1,Germany,Weather related,2016
+246,Distribution grid,0,0.0,0.0,0.0333,1,Germany,Equipment failure,2016
+247,Transmission grid,0,0.0,0.0,1.133,1,Netherlands,Equipment failure,2016
+248,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Equipment failure,2016
+249,Transmission grid,0,0.0,0.0,0.0,1,Romania,Weather related,2016
+250,Transmission grid,0,0.0,0.0,0.067,1,Netherlands,Equipment failure,2016
+251,Distribution grid,0,0.0,0.0,0.0,1,Germany,Weather related,2016
+252,Transmission grid,0,0.0,0.0,0.0061,1,Netherlands,Equipment failure,2016
+253,Transmission grid,0,0.0,0.0,1.25,1,Romania,Grid instability,2016
+254,Distribution grid,0,0.0,0.0,0.75,1,Germany,Accident,2016
+255,Transmission grid,1,0.0,0.0,3.0,1,Italy,Equipment failure,2016
+256,Transmission grid,0,0.0,0.0,0.417,1,Belgium,Equipment failure,2016
+257,Transmission grid,0,0.0,0.0,0.034,1,Netherlands,Equipment failure,2016
+258,Transmission grid,0,0.0,0.0,0.417,1,Germany,Weather related,2016
+259,Distribution grid,0,0.0,0.0,1.3,1,Poland,Equipment failure,2016
+260,Transmission grid,0,0.0,0.0,0.05,1,Netherlands,Equipment failure,2016
+261,Transmission grid,0,0.0,0.0,0.0,1,Netherlands,Human error,2015
+262,Distribution grid,1,0.0,0.0,48.0,1,United Kingdom,Weather related,2015
+263,Distribution grid,1,0.0,0.0,12.0,1,Sweden,Weather related,2015
+264,Transmission grid,0,0.0,0.0,0.0333,1,Netherlands,Human error,2015
+265,Transmission grid,1,0.0,0.0,1.5,1,United Kingdom,Grid instability,2015
+266,Transmission grid,0,0.0,0.0,0.917,1,Netherlands,Human error,2015
+267,Transmission grid,1,0.0,0.0,2.0,1,Hungary,Human unintentional,2015
+268,Transmission grid,0,0.0,0.0,0.5,1,Luxembourg,Equipment failure,2015
+269,Transmission grid,0,0.0,0.0,0.0333,1,Netherlands,Equipment failure,2015
+270,Distribution grid,0,0.0,0.0,0.0,1,Sweden,Human error,2015
+271,Transmission grid,0,0.0,0.0,0.0,1,Bulgaria,Equipment failure,2015
+272,Transmission grid,0,0.0,0.0,0.65,1,Netherlands,Equipment failure,2015
+273,Distribution grid,1,0.0,0.0,2.0,1,Germany,Accident,2015
+274,Transmission grid,0,0.0,0.0,0.617,1,Netherlands,Equipment failure,2015
+275,Transmission grid,1,0.0,0.0,48.0,1,Poland,Weather related,2015
+276,Transmission grid,0,0.0,0.0,0.0833,1,Netherlands,Human error,2015
+277,Transmission grid,1,0.0,0.0,5.0,1,France,Weather related,2015
+278,Transmission grid,0,0.0,0.0,1.0,1,Netherlands,Equipment failure,2015
+279,Transmission grid,0,0.0,0.0,0.333,1,Bulgaria,Equipment failure,2015
+280,Transmission grid,1,0.0,0.0,3.0,1,Netherlands,Weather related,2015
+281,Transmission grid,0,0.0,0.0,0.0667,1,Netherlands,Equipment failure,2015
+282,Transmission grid,0,0.0,0.0,1.0,1,Netherlands,Equipment failure,2015
+283,Transmission grid,1,123.75,90.0,2.75,1,Netherlands,Equipment failure,2015
+284,Transmission grid,1,0.0,0.0,6.6,1,Turkey,Grid instability,2015
+285,Transmission grid,1,0.0,0.0,2.0,1,Netherlands,Equipment failure,2015
+286,Transmission grid,0,0.0,0.0,0.34,1,Austria,Equipment failure,2015
+287,Transmission grid,3,604.8135,631.0,1.917,1,Netherlands,Equipment failure,2015
+288,Transmission grid,1,0.0,0.0,24.0,1,Bulgaria,Weather related,2015
+289,Transmission grid,0,0.0,0.0,0.083,1,Denmark,Equipment failure,2015
+290,Transmission grid,1,0.0,0.0,24.0,1,Italy,Weather related,2015
+291,Transmission grid,1,0.0,0.0,4.5,1,Bulgaria,Equipment failure,2015
+292,Transmission grid,1,0.0,0.0,2.15,1,Netherlands,Equipment failure,2015
+293,Transmission grid,0,0.0,0.0,0.1,1,Netherlands,Equipment failure,2015
+294,Distribution grid,1,0.0,0.0,36.0,1,Sweden,Weather related,2015
+295,Distribution grid,1,0.0,0.0,2.5,1,France,Equipment failure,2014
+296,Transmission grid,1,0.0,0.0,1.583,1,Spain,Grid instability,2004
+297,Transmission grid,0,0.0,0.0,0.583,1,Czech Republic,Equipment failure,2014
+298,Distribution grid,0,0.0,0.0,0.0,1,Germany,Equipment failure,2014
+299,Distribution grid,0,0.0,0.0,1.0,1,Switzerland,Accident,2014
+300,,0,0.0,0.0,0.0,1,United Kingdom,Human unintentional,2014
+301,Transmission grid,1,0.0,0.0,2.083,1,France,Equipment failure,2014
+302,Transmission grid,0,0.0,0.0,0.667,1,France,Equipment failure,2014
+303,,1,0.0,0.0,2.5,1,United Kingdom,,2014
+304,Distribution grid,1,0.0,0.0,1.5,1,Croatia,Equipment failure,2014
+305,Distribution grid,0,0.0,0.0,0.0,1,Germany,Equipment failure,2014
+306,Transmission grid,0,0.0,0.0,0.0,1,United Kingdom,Weather related,2014
+307,Transmission grid,0,0.0,0.0,0.0,1,Slovenia,Weather related,2014
+308,Transmission grid,1,0.0,0.0,24.0,1,Italy,Weather related,2014
+309,Transmission grid,1,0.0,0.0,72.0,1,Italy,Weather related,2013
+310,Transmission grid,1,0.0,0.0,24.0,1,Italy,Weather related,2013
+311,Distribution grid,1,0.0,0.0,6.0,1,United Kingdom,Weather related,2013
+312,Transmission grid,1,0.0,0.0,72.0,1,France,Weather related,2013
+313,Distribution grid,0,0.0,0.0,0.0,1,Sweden,Weather related,2013
+314,Transmission grid,1,0.0,0.0,24.0,1,Finland,Weather related,2013
+315,Transmission grid,0,0.0,0.0,0.0,1,Estonia,Weather related,2013
+316,Distribution grid,1,0.0,0.0,12.0,1,Norway,Weather related,2013
+317,Transmission grid,1,0.0,0.0,24.0,1,Poland,Weather related,2013
+318,Distribution grid,1,0.0,0.0,36.0,1,Sweden,Weather related,2013
+319,Transmission grid,1,0.0,0.0,24.0,1,United Kingdom,Weather related,2013
+320,Transmission grid,0,0.0,0.0,0.0,1,United Kingdom,Weather related,2013
+321,Transmission grid,0,0.0,0.0,0.0,1,Italy,Equipment failure,2013
+322,Distribution grid,1,0.0,0.0,43.0,1,Sweden,Weather related,2013
+323,Transmission grid,0,0.0,0.0,0.0,1,Denmark,Weather related,2013
+324,Transmission grid,1,0.0,0.0,24.0,1,United Kingdom,Weather related,2013
+325,Transmission grid,0,0.0,0.0,0.0001,1,Belgium,Equipment failure,2013
+326,Distribution grid,0,0.0,0.0,0.0,1,Germany,Human unintentional,2013
+327,Distribution grid,0,0.0,0.0,0.0,1,Austria,Equipment failure,2013
+328,Distribution grid,1,0.0,0.0,1.75,1,Bulgaria,Equipment failure,2013
+329,Distribution grid,0,0.0,0.0,0.0,1,Czech Republic,Weather related,2013
+330,Distribution grid,0,0.0,0.0,0.333,1,Germany,Equipment failure,2013
+331,Distribution grid,1,0.0,0.0,2.25,1,Germany,Equipment failure,2013
+332,Distribution grid,1,0.0,0.0,18.0,1,Germany,Equipment failure,2013
+333,Transmission grid,1,0.0,0.0,1.5,1,Czech Republic,Equipment failure,2013
+334,Transmission grid,0,0.0,0.0,0.25,1,Italy,Human intentional,2013
+335,Distribution grid,1,0.0,0.0,1.5,1,Germany,Grid instability,2013
+336,Transmission grid,0,0.0,0.0,0.0,1,Poland,Weather related,2013
+337,Transmission grid,1,0.0,0.0,48.0,1,United Kingdom,Weather related,2013
+338,Transmission grid,1,0.0,0.0,96.0,1,United Kingdom,Weather related,2013
+339,Transmission grid,0,0.0,0.0,0.333,1,France,Equipment failure,2012
+340,Transmission grid,1,0.0,0.0,12.25,1,Romania,Weather related,2012
+341,Distribution grid,0,0.0,0.0,1.0,1,Germany,Equipment failure,2012
+342,,0,0.0,0.0,0.005,1,Germany,Equipment failure,2012
+343,Transmission grid,0,0.0,0.0,0.333,1,Spain,Human error,2012
+344,Transmission grid,0,0.0,0.0,1.0,1,Spain,Weather related,2012
+345,Transmission grid,0,0.0,0.0,0.25,1,Belgium,Equipment failure,2012
+346,Transmission grid,1,0.0,0.0,3.0,1,Slovenia,Weather related,2012
+347,Distribution grid,0,0.0,0.0,0.0,1,Switzerland,Equipment failure,2012
+348,Transmission grid,0,0.0,0.0,0.0,1,Italy,Weather related,2012
+349,Distribution grid,1,0.0,0.0,5.0,1,Czech Republic,Equipment failure,2012
+350,Distribution grid,1,0.0,0.0,1.5,1,Germany,Equipment failure,2012
+351,Transmission grid,0,0.0,0.0,0.533,1,Croatia,Weather related,2012
+352,Transmission grid,0,0.0,0.0,0.0667,1,Germany,Weather related,2012
+353,Distribution grid,0,0.0,0.0,0.0001,1,Germany,Weather related,2012
+354,Distribution grid,0,0.0,0.0,0.217,1,Switzerland,Human unintentional,2012
+355,Transmission grid,0,0.0,0.0,1.0,1,France,Equipment failure,2012
+356,Transmission grid,3,1065.59,460.0,4.633,1,Cyprus,Grid instability,2012
+357,Transmission grid,0,0.0,0.0,0.0,1,Germany,Grid instability,2012
+358,Transmission grid,0,0.0,0.0,0.083,1,Germany,Equipment failure,2012
+359,Transmission grid,0,0.0,0.0,0.67,1,Romania,Equipment failure,2012
+360,Transmission grid,1,0.0,0.0,48.0,1,Italy,Weather related,2012
+361,Transmission grid,1,0.0,0.0,11.0,1,Finland,Weather related,2011
+362,Transmission grid,0,0.0,0.0,0.0,1,Estonia,Weather related,2011
+363,Transmission grid,1,0.0,0.0,48.0,1,Norway,Weather related,2011
+364,Distribution grid,1,0.0,0.0,18.0,1,Sweden,Weather related,2011
+365,Transmission grid,0,0.0,0.0,0.183,1,Bulgaria,Equipment failure,2011
+366,Transmission grid,1,0.0,0.0,48.0,1,United Kingdom,Weather related,2011
+367,Distribution grid,0,0.0,0.0,0.0,1,Sweden,Weather related,2011
+368,Transmission grid,0,0.0,0.0,0.0,1,Germany,Grid instability,2011
+369,Transmission grid,1,0.0,0.0,2.5,1,Italy,Equipment failure,2011
+370,Transmission grid,1,0.0,0.0,4.0,1,Italy,Human unintentional,2011
+371,Transmission grid,1,0.0,0.0,8.0,1,Italy,Equipment failure,2011
+372,Transmission grid,0,0.0,0.0,0.25,1,France,Equipment failure,2011
+373,Distribution grid,0,0.0,0.0,0.5,1,Germany,Grid instability,2011
+374,Transmission grid,0,0.0,0.0,0.0,1,Cyprus,Human unintentional,2011
+375,Distribution grid,1,0.0,0.0,7.25,1,Romania,Equipment failure,2011
+376,Distribution grid,0,0.0,0.0,0.667,1,Germany,Equipment failure,2011
+377,Transmission grid,0,7.875,105.0,0.15,1,Czech Republic,Equipment failure,2011
+378,Transmission grid,0,0.0,0.0,0.267,1,Denmark,Equipment failure,2011
+379,Distribution grid,1,0.0,0.0,3.667,1,Germany,Equipment failure,2011
+380,Transmission grid,1,0.0,0.0,5.0,1,Austria,Equipment failure,2010
+381,Transmission grid,0,0.0,0.0,0.0,1,Iceland,Grid instability,2010
+382,Distribution grid,1,0.0,0.0,5.0,1,United Kingdom,Accident,2010
+383,Distribution grid,0,0.0,0.0,1.0,1,United Kingdom,Equipment failure,2010
+384,Transmission grid,1,0.0,0.0,1.667,1,United Kingdom,Equipment failure,2010
+385,Transmission grid,0,0.0,0.0,1.317,1,Spain,Human error,2010
+386,Distribution grid,0,0.0,0.0,0.0,1,Czech Republic,Weather related,2010
+387,Transmission grid,1,0.0,0.0,1.5,1,Italy,Equipment failure,2010
+388,Transmission grid,0,0.0,0.0,0.0,1,Iceland,Grid instability,2010
+389,Transmission grid,1,0.0,0.0,4.5,1,Spain,Equipment failure,2010
+390,Distribution grid,1,0.0,0.0,3.25,1,Switzerland,Equipment failure,2010
+391,Distribution grid,1,0.0,0.0,24.0,1,United Kingdom,Weather related,2010
+392,Distribution grid,1,0.0,0.0,3.0,1,Spain,Equipment failure,2010
+393,Transmission grid,1,0.0,0.0,120.0,1,Spain,Weather related,2010
+394,Transmission grid,1,0.0,0.0,240.0,1,Poland,Weather related,2010
+395,Distribution grid,1,0.0,0.0,48.0,1,United Kingdom,Weather related,2010
+396,Distribution grid,1,0.0,0.0,48.0,1,Czech Republic,Weather related,2009
+397,Transmission grid,0,0.0,0.0,0.2,1,Czech Republic,Equipment failure,2009
+398,Transmission grid,0,0.0,0.0,1.1,1,Spain,Weather related,2009
+399,Transmission grid,0,0.0,0.0,0.667,1,Spain,Weather related,2009
+400,Transmission grid,1,0.0,0.0,5.0,1,Italy,Human unintentional,2009
+401,Transmission grid,1,0.0,0.0,2.5,1,Italy,Human unintentional,2009
+402,Distribution grid,1,0.0,0.0,72.0,1,United Kingdom,Human intentional,2009
+403,Transmission grid,0,0.0,0.0,0.0,1,Denmark,Equipment failure,2009
+404,Transmission grid,1,0.0,0.0,3.5,1,Poland,Equipment failure,2009
+405,Distribution grid,0,0.0,0.0,0.5,1,Poland,Equipment failure,2009
+406,Distribution grid,1,0.0,0.0,1.667,1,United Kingdom,Equipment failure,2009
+407,Transmission grid,1,0.0,0.0,72.0,1,France,Weather related,2009
+408,Transmission grid,1,0.0,0.0,7.0,1,Spain,Weather related,2008
+409,Distribution grid,0,0.0,0.0,0.0833,1,Germany,Equipment failure,2008
+410,Transmission grid,0,23.345000000000002,70.0,0.667,1,Poland,Grid instability,2008
+411,Transmission grid,1,0.0,0.0,22.0,1,Czech Republic,Weather related,2008
+412,Distribution grid,0,0.0,0.0,1.0,1,Germany,Equipment failure,2008
+413,,0,0.0,0.0,1.0,1,Sweden,Equipment failure,2008
+414,Transmission grid,1,0.0,0.0,16.5,1,Poland,Weather related,2008
+415,Distribution grid,1,0.0,0.0,1.5,1,Germany,Equipment failure,2008
+416,Transmission grid,1,0.0,0.0,50.0,1,Netherlands,Human unintentional,2007
+417,Transmission grid,0,0.0,0.0,0.0,1,Italy,Weather related,2007
+418,Transmission grid,0,0.0,0.0,0.0,1,Spain,Equipment failure,2007
+419,Transmission grid,1,0.0,0.0,24.0,1,Czech Republic,Weather related,2007
+420,Transmission grid,1,0.0,0.0,48.0,1,Czech Republic,Weather related,2008
+421,Distribution grid,0,0.0,0.0,0.0,1,Czech Republic,Weather related,2007
+422,Transmission grid,1,0.0,0.0,48.0,1,Germany,Weather related,2007
+423,,1,0.0,0.0,48.0,1,Sweden,Weather related,2007
+424,Distribution grid,1,0.0,0.0,10.0,1,Romania,Equipment failure,2007
+425,Transmission grid,0,0.0,0.0,0.633,1,Germany,Human error,2006
+426,Transmission grid,0,0.0,0.0,1.367,1,Czech Republic,Equipment failure,2006
+427,Transmission grid,0,0.0,0.0,0.0,1,Czech Republic,Equipment failure,2006
+428,Transmission grid,1,0.0,0.0,9.0,1,Slovenia,Weather related,2006
+429,Transmission grid,3,1875.0,1250.0,3.0,1,Italy,Weather related,2006
+430,Distribution grid,1,0.0,0.0,12.0,1,Germany,Weather related,2006
+431,Distribution grid,1,0.0,0.0,4.0,1,Romania,Weather related,2005
+432,Transmission grid,1,0.0,0.0,2.0,1,Denmark,Human unintentional,2005
+433,Transmission grid,1,0.0,0.0,96.0,1,Germany,Weather related,2005
+434,Transmission grid,1,0.0,0.0,43.0,1,Netherlands,Weather related,2005
+435,Transmission grid,0,0.0,0.0,1.0,1,Switzerland,Weather related,2005
+436,,0,0.0,0.0,0.0,1,Estonia,Weather related,2005
+437,Transmission grid,0,0.0,0.0,0.0,1,Denmark,Weather related,2005
+438,Transmission grid,1,0.0,0.0,168.0,1,Latvia,Weather related,2005
+439,Distribution grid,1,0.0,0.0,192.0,1,Sweden,Weather related,2005
+440,Transmission grid,1,0.0,0.0,72.0,1,Poland,Weather related,2004
+441,Distribution grid,1,0.0,0.0,4.0,1,Germany,Equipment failure,2004
+442,Transmission grid,0,0.0,0.0,0.5,1,Spain,Human unintentional,2004
+443,Transmission grid,1,0.0,0.0,3.0,1,Germany,Equipment failure,2004
+444,Distribution grid,0,0.0,0.0,1.0,1,Italy,Human unintentional,2004
+445,Transmission grid,0,0.0,0.0,0.0,1,Greece,Grid instability,2004
+446,Distribution grid,0,0.0,0.0,0.0,1,Germany,Weather related,2004
+447,,0,0.0,0.0,0.0,1,Germany,Human intentional,2003
+448,Transmission grid,0,0.0,0.0,0.417,1,Sweden,Weather related,2003
+449,,1,0.0,0.0,2.0,1,Germany,Equipment failure,2003
+450,Transmission grid,1,0.0,0.0,13.5,1,Switzerland,Grid instability,2003
+451,Transmission grid,1,0.0,0.0,3.0,1,Sweden,Equipment failure,2003
+452,Transmission grid,0,0.0,0.0,0.7,1,United Kingdom,Human error,2003
+453,Transmission grid,0,0.0,0.0,0.617,1,United Kingdom,Equipment failure,2003
+454,,0,0.0,0.0,0.75,1,Finland,Human error,2003
+455,Transmission grid,1,0.0,0.0,4.0,1,Spain,Equipment failure,2003
+456,,0,0.0,0.0,0.0,1,Italy,Grid instability,2003
+457,Transmission grid,1,0.0,0.0,3.25,1,Denmark,Equipment failure,2002
+458,Distribution grid,1,0.0,0.0,9.5,1,Germany,Equipment failure,2000
+459,Transmission grid,0,0.0,0.0,0.0,1,Portugal,Accident,2000
+460,,1,0.0,0.0,5.0,1,Germany,Weather related,2000
+461,Transmission grid,1,0.0,0.0,264.0,1,France,Weather related,1999
+462,,1,0.0,0.0,10.0,1,Denmark,Weather related,1999
+463,,0,0.0,0.0,0.0,1,Sweden,Weather related,1999
+464,Distribution grid,1,0.0,0.0,2.0,1,Germany,Equipment failure,1999
+465,Distribution grid,0,0.0,0.0,0.0,1,Germany,Accident,1998
+466,,0,0.0,0.0,0.5,1,Germany,Grid instability,1997
+467,,0,0.0,0.0,0.5,1,Germany,Equipment failure,1996
+468,,0,0.0,0.0,0.0,1,Sweden,Weather related,1995
+469,Transmission grid,0,0.0,0.0,0.333,1,Denmark,Grid instability,1995
+470,Transmission grid,2,0.0,2300.0,0.0,1,Germany,Weather related,1994
+471,Transmission grid,1,0.0,0.0,6.5,1,United Kingdom,Weather related,1987
+472,Transmission grid,0,0.0,0.0,0.0,1,France,Weather related,1987
+473,Transmission grid,0,0.0,0.0,1.0,1,Sweden,Equipment failure,1983
+474,Transmission grid,1,0.0,0.0,30.0,1,Germany,Weather related,1979
+475,Transmission grid,1,0.0,0.0,4.0,1,France,Grid instability,1978
+476,,1,0.0,0.0,5.0,1,Romania,Human error,1977
+477,Transmission grid,0,0.0,0.0,0.0,1,United Kingdom,Grid instability,1972

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.xlsx
+*.rar
+*.zip
+*Outage_statistics*.csv
+data/raw data/
+data/processed data/
