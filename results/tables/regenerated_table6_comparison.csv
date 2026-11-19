@@ -1,0 +1,5 @@
+Dataset     , Constraint_Set, PC_SOS_SDP_Optimal_Inertia, Paper_PCCC_Min_Inertia, Our_PCCC_Min_Inertia, Our_PCCC_Mean_Inertia, Opt_Gap_Pct, Our_Total_Runtime_3Seeds_s, Paper_PCCC_Runtime_s, Our_Mean_ARI, Our_Mean_Silhouette
+Appendicitis, 5%            ,                     491.8 ,                 491.8 ,             492.2844,              493.389 , 0.0985     ,                     0.2591,                  0.3,       0.4453,              0.3355
+Appendicitis, 10%           ,                     544.18,                 544.18,             544.1785,              545.1468, -0.0003    ,                     0.0687,                  0.3,       0.5928,              0.327
+Appendicitis, 15%           ,                     612.93,                 612.93,             612.925 ,              612.925 , -0.0008    ,                     0.0915,                  0.1,       1.0   ,              0.2466
+Appendicitis, 20%           ,                     612.93,                 612.93,             612.925 ,              612.925 , -0.0008    ,                     0.0601,                  0.1,       1.0   ,              0.2466

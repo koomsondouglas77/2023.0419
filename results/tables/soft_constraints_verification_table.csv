@@ -1,0 +1,6 @@
+Scenario,Log_File,SML_Violations,SCL_Violations,Final_Penalty_Rho,OFV_Distance,OFV_Penalty,OFV_Total,Full_Space_Inertia
+01_baseline_hard_only,iter_log_seed24_01_baseline_hard_only.csv,0,0,11.6745,417.0804,0.0,417.0804,495.5982
+02_sml_pair_0_105_conf_1.0,iter_log_seed24_02_sml_pair_0_105_conf_1.0.csv,0,0,11.885,420.8952,-0.0,420.8952,498.633
+03_sml_pair_0_105_conf_0.1,iter_log_seed24_03_sml_pair_0_105_conf_0.1.csv,0,0,11.885,418.2028,1.1885,419.3913,498.633
+04_scl_pair_36_84_conf_1.0,iter_log_seed24_04_scl_pair_36_84_conf_1.0.csv,0,0,11.4173,428.1739,0.0,428.1739,499.4075
+05_scl_pair_36_84_conf_0.1,iter_log_seed24_05_scl_pair_36_84_conf_0.1.csv,0,1,11.7341,425.8059,1.1734,426.9793,495.5982
